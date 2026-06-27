@@ -1,0 +1,1001 @@
+Transaction ID,Customer ID,Product Category,Product Name,Quantity,Unit Price,Total Amount,Purchase Date,Customer City,Payment Method
+T1,C158,Electronics,Headphones,4,3834,15336,6/4/2025,Multan,EasyPaisa
+T2,C55,Beauty,Perfume,5,1561,7805,6/8/2025,Multan,Cash
+T3,C50,Grocery,Cooking Oil,1,2290,2290,11/8/2025,Islamabad,Cash
+T4,C276,Clothing,T-Shirt,4,3458,13832,9/16/2025,Karachi,JazzCash
+T5,C262,Clothing,T-Shirt,2,4482,8964,6/5/2025,Islamabad,EasyPaisa
+T6,C102,Grocery,Cooking Oil,4,1640,6560,11/14/2025,Multan,JazzCash
+T7,C132,Electronics,Mobile Charger,4,3645,14580,11/23/2025,Faisalabad,EasyPaisa
+T8,C221,Beauty,Face Wash,4,3365,13460,10/17/2025,Faisalabad,Cash
+T9,C19,Electronics,Headphones,3,1001,3003,4/23/2025,Islamabad,EasyPaisa
+T10,C140,Home Appliances,Microwave,1,1630,1630,5/31/2025,Lahore,Card
+T11,C53,Grocery,Rice Bag,1,3007,3007,5/4/2025,Karachi,Card
+T12,C281,Clothing,Jeans,5,1364,6820,1/28/2025,Karachi,Card
+T13,C93,Beauty,Face Wash,2,2487,4974,6/17/2025,Faisalabad,EasyPaisa
+T14,C95,Electronics,Headphones,4,3439,13756,10/4/2025,Lahore,JazzCash
+T15,C108,Electronics,Headphones,4,1524,6096,11/3/2025,Karachi,Cash
+T16,C108,Home Appliances,Microwave,3,1596,4788,6/6/2025,Islamabad,Card
+T17,C133,Grocery,Cooking Oil,1,2297,2297,7/17/2025,Islamabad,Cash
+T18,C95,Grocery,Rice Bag,5,4232,21160,4/14/2025,Multan,Card
+T19,C83,Beauty,Perfume,4,2501,10004,11/15/2025,Multan,EasyPaisa
+T20,C215,Clothing,Jeans,3,2067,6201,2/27/2025,Islamabad,JazzCash
+T21,C217,Clothing,Jeans,5,4356,21780,10/7/2025,Islamabad,EasyPaisa
+T22,C224,Clothing,T-Shirt,4,2140,8560,4/19/2025,Islamabad,Cash
+T23,C102,Electronics,Mobile Charger,2,4897,9794,8/31/2025,Multan,JazzCash
+T24,C204,Beauty,Perfume,4,4972,19888,6/8/2025,Karachi,Cash
+T25,C210,Clothing,Jeans,3,4160,12480,3/5/2025,Lahore,EasyPaisa
+T26,C214,Electronics,Mobile Charger,4,547,2188,4/4/2025,Islamabad,JazzCash
+T27,C223,Home Appliances,Blender,1,4735,4735,7/5/2025,Multan,EasyPaisa
+T28,C126,Home Appliances,Microwave,5,1925,9625,5/30/2025,Faisalabad,Cash
+T29,C39,Clothing,T-Shirt,3,1762,5286,10/9/2025,Multan,Card
+T30,C290,Beauty,Face Wash,4,2183,8732,2/5/2025,Multan,Cash
+T31,C274,Home Appliances,Blender,3,3224,9672,5/28/2025,Multan,EasyPaisa
+T32,C68,Home Appliances,Blender,3,3882,11646,12/21/2025,Islamabad,Cash
+T33,C152,Beauty,Perfume,2,4473,8946,5/14/2025,Faisalabad,Cash
+T34,C180,Grocery,Cooking Oil,4,4603,18412,2/11/2025,Karachi,Cash
+T35,C138,Grocery,Cooking Oil,4,875,3500,3/17/2025,Multan,Card
+T36,C296,Home Appliances,Blender,3,3239,9717,6/16/2025,Islamabad,Card
+T37,C23,Clothing,T-Shirt,2,4206,8412,11/4/2025,Lahore,Cash
+T38,C3,Electronics,Mobile Charger,4,3145,12580,3/4/2025,Multan,EasyPaisa
+T39,C93,Clothing,T-Shirt,3,785,2355,1/8/2025,Faisalabad,Card
+T40,C95,Grocery,Rice Bag,5,3575,17875,10/25/2025,Karachi,EasyPaisa
+T41,C135,Clothing,Jeans,4,889,3556,3/22/2025,Karachi,EasyPaisa
+T42,C44,Grocery,Cooking Oil,5,1419,7095,2/1/2025,Multan,Card
+T43,C205,Beauty,Perfume,5,863,4315,6/14/2025,Karachi,EasyPaisa
+T44,C211,Electronics,Mobile Charger,2,2167,4334,10/19/2025,Lahore,JazzCash
+T45,C255,Grocery,Cooking Oil,4,2555,10220,10/20/2025,Karachi,Card
+T46,C21,Beauty,Perfume,1,1213,1213,1/13/2025,Karachi,Cash
+T47,C120,Grocery,Rice Bag,5,4586,22930,3/28/2025,Islamabad,Cash
+T48,C59,Beauty,Perfume,4,3702,14808,1/4/2025,Karachi,Card
+T49,C6,Home Appliances,Blender,2,3530,7060,1/16/2025,Karachi,Cash
+T50,C138,Grocery,Rice Bag,2,1572,3144,12/18/2025,Multan,Cash
+T51,C148,Clothing,Jeans,2,4843,9686,6/24/2025,Multan,Cash
+T52,C202,Beauty,Face Wash,4,2252,9008,11/20/2025,Multan,Card
+T53,C16,Home Appliances,Microwave,1,4416,4416,2/27/2025,Karachi,JazzCash
+T54,C242,Beauty,Face Wash,4,4242,16968,1/26/2025,Multan,Card
+T55,C206,Grocery,Cooking Oil,1,1654,1654,9/8/2025,Karachi,JazzCash
+T56,C195,Electronics,Headphones,3,2016,6048,4/3/2025,Faisalabad,JazzCash
+T57,C297,Electronics,Mobile Charger,1,3619,3619,3/28/2025,Islamabad,EasyPaisa
+T58,C69,Home Appliances,Blender,1,4796,4796,1/25/2025,Multan,JazzCash
+T59,C111,Grocery,Cooking Oil,3,3958,11874,1/17/2025,Islamabad,JazzCash
+T60,C296,Beauty,Perfume,1,2047,2047,7/9/2025,Islamabad,JazzCash
+T61,C167,Home Appliances,Blender,5,2401,12005,11/21/2025,Faisalabad,JazzCash
+T62,C206,Electronics,Mobile Charger,5,4582,22910,12/31/2025,Faisalabad,JazzCash
+T63,C2,Electronics,Mobile Charger,4,4440,17760,8/9/2025,Karachi,Cash
+T64,C198,Clothing,T-Shirt,3,3281,9843,5/5/2025,Multan,Card
+T65,C248,Grocery,Cooking Oil,4,2542,10168,11/14/2025,Islamabad,EasyPaisa
+T66,C107,Beauty,Face Wash,3,2803,8409,9/20/2025,Faisalabad,Card
+T67,C56,Home Appliances,Microwave,3,871,2613,3/21/2025,Lahore,JazzCash
+T68,C2,Clothing,T-Shirt,1,537,537,1/30/2025,Multan,Cash
+T69,C289,Electronics,Mobile Charger,1,2129,2129,10/25/2025,Multan,Card
+T70,C14,Grocery,Rice Bag,3,3180,9540,12/2/2025,Multan,Cash
+T71,C82,Grocery,Cooking Oil,4,1010,4040,8/27/2025,Karachi,JazzCash
+T72,C199,Home Appliances,Blender,3,2501,7503,7/26/2025,Faisalabad,EasyPaisa
+T73,C291,Clothing,Jeans,2,4634,9268,5/27/2025,Faisalabad,EasyPaisa
+T74,C174,Home Appliances,Blender,5,3705,18525,9/28/2025,Multan,EasyPaisa
+T75,C243,Electronics,Headphones,3,4154,12462,7/7/2025,Faisalabad,EasyPaisa
+T76,C145,Home Appliances,Blender,4,1867,7468,1/8/2025,Faisalabad,EasyPaisa
+T77,C253,Electronics,Headphones,3,1520,4560,2/20/2025,Faisalabad,Cash
+T78,C25,Beauty,Perfume,1,1123,1123,4/21/2025,Islamabad,Card
+T79,C105,Beauty,Perfume,4,3162,12648,9/16/2025,Faisalabad,EasyPaisa
+T80,C94,Home Appliances,Blender,3,4039,12117,5/6/2025,Faisalabad,Card
+T81,C255,Grocery,Rice Bag,5,4618,23090,11/8/2025,Faisalabad,JazzCash
+T82,C200,Electronics,Headphones,4,3339,13356,3/22/2025,Karachi,Cash
+T83,C17,Grocery,Rice Bag,1,4932,4932,12/28/2025,Karachi,EasyPaisa
+T84,C287,Grocery,Rice Bag,1,539,539,6/11/2025,Islamabad,EasyPaisa
+T85,C102,Grocery,Rice Bag,3,2915,8745,6/12/2025,Multan,JazzCash
+T86,C29,Clothing,Jeans,4,565,2260,12/7/2025,Faisalabad,Card
+T87,C160,Clothing,Jeans,4,1914,7656,4/22/2025,Faisalabad,Card
+T88,C142,Electronics,Mobile Charger,3,4208,12624,8/19/2025,Islamabad,EasyPaisa
+T89,C18,Clothing,T-Shirt,4,1220,4880,1/28/2025,Multan,JazzCash
+T90,C76,Home Appliances,Blender,3,4031,12093,4/20/2025,Multan,EasyPaisa
+T91,C137,Home Appliances,Microwave,1,3038,3038,10/25/2025,Lahore,Card
+T92,C46,Home Appliances,Microwave,4,1772,7088,5/14/2025,Karachi,Card
+T93,C75,Electronics,Headphones,2,1593,3186,1/7/2025,Islamabad,EasyPaisa
+T94,C223,Grocery,Cooking Oil,3,3910,11730,10/22/2025,Islamabad,Card
+T95,C157,Grocery,Cooking Oil,1,4501,4501,1/31/2025,Lahore,Card
+T96,C147,Electronics,Mobile Charger,3,754,2262,9/27/2025,Lahore,JazzCash
+T97,C209,Electronics,Mobile Charger,3,3585,10755,10/2/2025,Faisalabad,Cash
+T98,C126,Electronics,Mobile Charger,2,4966,9932,6/1/2025,Lahore,Cash
+T99,C193,Clothing,T-Shirt,4,1805,7220,12/26/2025,Islamabad,JazzCash
+T100,C185,Home Appliances,Blender,1,3639,3639,8/12/2025,Faisalabad,EasyPaisa
+T101,C64,Clothing,Jeans,5,1314,6570,4/7/2025,Faisalabad,Card
+T102,C222,Electronics,Mobile Charger,4,2809,11236,1/31/2025,Islamabad,Cash
+T103,C63,Clothing,Jeans,2,4819,9638,9/9/2025,Multan,EasyPaisa
+T104,C118,Beauty,Perfume,5,3683,18415,5/13/2025,Lahore,Cash
+T105,C17,Home Appliances,Blender,2,4826,9652,4/20/2025,Lahore,Card
+T106,C187,Beauty,Face Wash,2,1262,2524,3/8/2025,Faisalabad,JazzCash
+T107,C270,Home Appliances,Microwave,1,986,986,7/10/2025,Islamabad,Card
+T108,C258,Home Appliances,Blender,2,2575,5150,2/10/2025,Multan,Card
+T109,C102,Grocery,Rice Bag,4,4211,16844,2/20/2025,Multan,EasyPaisa
+T110,C202,Grocery,Cooking Oil,3,1156,3468,12/16/2025,Islamabad,Cash
+T111,C151,Electronics,Headphones,4,2353,9412,3/25/2025,Multan,Cash
+T112,C264,Grocery,Rice Bag,1,4247,4247,7/7/2025,Faisalabad,Cash
+T113,C188,Grocery,Rice Bag,3,3936,11808,8/28/2025,Lahore,EasyPaisa
+T114,C168,Grocery,Rice Bag,4,1821,7284,1/20/2025,Faisalabad,JazzCash
+T115,C274,Beauty,Perfume,5,1444,7220,8/8/2025,Lahore,Cash
+T116,C176,Electronics,Mobile Charger,3,2725,8175,3/18/2025,Lahore,JazzCash
+T117,C293,Clothing,Jeans,3,3950,11850,7/4/2025,Multan,JazzCash
+T118,C291,Home Appliances,Microwave,3,2493,7479,6/16/2025,Islamabad,Cash
+T119,C193,Clothing,T-Shirt,3,2906,8718,4/26/2025,Karachi,JazzCash
+T120,C37,Electronics,Mobile Charger,3,1542,4626,9/27/2025,Islamabad,JazzCash
+T121,C81,Electronics,Headphones,4,4018,16072,8/3/2025,Lahore,EasyPaisa
+T122,C288,Electronics,Headphones,2,1697,3394,11/24/2025,Lahore,Card
+T123,C80,Clothing,T-Shirt,3,3025,9075,1/6/2025,Karachi,EasyPaisa
+T124,C189,Electronics,Mobile Charger,3,1718,5154,9/2/2025,Faisalabad,Cash
+T125,C15,Clothing,T-Shirt,2,4179,8358,12/3/2025,Karachi,Cash
+T126,C123,Beauty,Perfume,5,769,3845,8/8/2025,Multan,Cash
+T127,C35,Grocery,Rice Bag,4,4728,18912,11/13/2025,Lahore,EasyPaisa
+T128,C105,Home Appliances,Blender,3,2122,6366,11/3/2025,Lahore,JazzCash
+T129,C238,Grocery,Rice Bag,2,4299,8598,7/24/2025,Faisalabad,Card
+T130,C194,Beauty,Face Wash,3,3075,9225,5/27/2025,Karachi,Cash
+T131,C116,Beauty,Perfume,2,3397,6794,4/13/2025,Multan,Cash
+T132,C92,Clothing,T-Shirt,3,3279,9837,8/21/2025,Multan,Card
+T133,C149,Clothing,T-Shirt,1,981,981,5/21/2025,Lahore,EasyPaisa
+T134,C152,Electronics,Headphones,4,1202,4808,9/17/2025,Lahore,EasyPaisa
+T135,C76,Clothing,T-Shirt,4,2733,10932,3/20/2025,Multan,Card
+T136,C73,Electronics,Mobile Charger,2,3269,6538,3/26/2025,Lahore,Card
+T137,C201,Grocery,Cooking Oil,5,1562,7810,11/13/2025,Faisalabad,Card
+T138,C289,Grocery,Rice Bag,5,4507,22535,1/8/2025,Islamabad,Card
+T139,C220,Clothing,T-Shirt,3,2743,8229,4/1/2025,Multan,JazzCash
+T140,C235,Home Appliances,Microwave,4,4729,18916,11/1/2025,Faisalabad,EasyPaisa
+T141,C97,Electronics,Mobile Charger,4,4862,19448,4/4/2025,Multan,Card
+T142,C185,Grocery,Cooking Oil,1,4974,4974,3/19/2025,Lahore,JazzCash
+T143,C223,Grocery,Rice Bag,4,1796,7184,4/4/2025,Karachi,Card
+T144,C76,Clothing,T-Shirt,4,1688,6752,1/16/2025,Multan,JazzCash
+T145,C78,Home Appliances,Microwave,4,2279,9116,11/14/2025,Faisalabad,Cash
+T146,C207,Clothing,Jeans,5,976,4880,4/7/2025,Faisalabad,Cash
+T147,C274,Electronics,Headphones,1,2970,2970,3/4/2025,Karachi,Cash
+T148,C251,Clothing,Jeans,1,4442,4442,9/27/2025,Lahore,EasyPaisa
+T149,C56,Grocery,Cooking Oil,4,2523,10092,2/6/2025,Karachi,Card
+T150,C57,Beauty,Face Wash,1,2599,2599,6/10/2025,Islamabad,Cash
+T151,C272,Home Appliances,Microwave,4,2106,8424,10/18/2025,Faisalabad,EasyPaisa
+T152,C21,Clothing,Jeans,5,4449,22245,10/8/2025,Lahore,EasyPaisa
+T153,C216,Grocery,Rice Bag,5,3795,18975,1/15/2025,Faisalabad,Cash
+T154,C161,Grocery,Rice Bag,2,3798,7596,9/14/2025,Faisalabad,EasyPaisa
+T155,C278,Grocery,Rice Bag,3,621,1863,2/2/2025,Multan,Cash
+T156,C122,Beauty,Perfume,4,4808,19232,11/1/2025,Faisalabad,EasyPaisa
+T157,C199,Clothing,T-Shirt,2,2583,5166,12/4/2025,Multan,JazzCash
+T158,C214,Grocery,Cooking Oil,3,4786,14358,11/11/2025,Karachi,Cash
+T159,C251,Home Appliances,Blender,5,4703,23515,9/1/2025,Karachi,Cash
+T160,C61,Grocery,Cooking Oil,5,2829,14145,7/22/2025,Karachi,EasyPaisa
+T161,C160,Home Appliances,Blender,5,2478,12390,7/8/2025,Islamabad,EasyPaisa
+T162,C145,Clothing,T-Shirt,5,2778,13890,8/19/2025,Islamabad,Cash
+T163,C113,Grocery,Rice Bag,3,1772,5316,6/11/2025,Lahore,Card
+T164,C281,Grocery,Rice Bag,1,3299,3299,10/22/2025,Lahore,EasyPaisa
+T165,C234,Grocery,Cooking Oil,5,4866,24330,3/19/2025,Multan,JazzCash
+T166,C175,Beauty,Face Wash,2,2513,5026,11/10/2025,Multan,JazzCash
+T167,C15,Clothing,T-Shirt,5,1232,6160,12/29/2025,Multan,Cash
+T168,C1,Electronics,Headphones,2,1573,3146,10/11/2025,Islamabad,Card
+T169,C176,Home Appliances,Microwave,2,4445,8890,5/19/2025,Karachi,EasyPaisa
+T170,C144,Electronics,Mobile Charger,5,1144,5720,12/27/2025,Multan,Cash
+T171,C277,Electronics,Headphones,3,4356,13068,2/26/2025,Islamabad,JazzCash
+T172,C129,Electronics,Mobile Charger,5,1850,9250,3/14/2025,Karachi,EasyPaisa
+T173,C62,Clothing,T-Shirt,5,2894,14470,10/4/2025,Islamabad,Card
+T174,C166,Clothing,Jeans,2,707,1414,6/19/2025,Islamabad,JazzCash
+T175,C285,Beauty,Face Wash,5,2640,13200,6/3/2025,Islamabad,EasyPaisa
+T176,C81,Home Appliances,Microwave,5,3026,15130,8/25/2025,Faisalabad,Card
+T177,C85,Grocery,Cooking Oil,3,1468,4404,5/28/2025,Faisalabad,EasyPaisa
+T178,C201,Clothing,T-Shirt,4,652,2608,2/23/2025,Faisalabad,EasyPaisa
+T179,C56,Grocery,Rice Bag,2,2829,5658,3/27/2025,Multan,EasyPaisa
+T180,C181,Home Appliances,Blender,5,2062,10310,10/18/2025,Lahore,JazzCash
+T181,C238,Home Appliances,Microwave,4,3766,15064,8/26/2025,Islamabad,EasyPaisa
+T182,C53,Clothing,T-Shirt,3,2619,7857,1/11/2025,Islamabad,Cash
+T183,C236,Beauty,Perfume,1,2879,2879,10/21/2025,Karachi,EasyPaisa
+T184,C241,Beauty,Perfume,1,2006,2006,8/6/2025,Lahore,Cash
+T185,C167,Beauty,Face Wash,1,4999,4999,3/23/2025,Islamabad,EasyPaisa
+T186,C50,Clothing,Jeans,1,2768,2768,5/7/2025,Faisalabad,EasyPaisa
+T187,C185,Beauty,Face Wash,4,2203,8812,9/22/2025,Lahore,JazzCash
+T188,C20,Grocery,Cooking Oil,1,2494,2494,5/27/2025,Faisalabad,EasyPaisa
+T189,C152,Electronics,Mobile Charger,1,1438,1438,11/13/2025,Islamabad,Card
+T190,C217,Home Appliances,Microwave,3,2282,6846,9/8/2025,Karachi,Card
+T191,C217,Grocery,Rice Bag,3,1233,3699,5/18/2025,Karachi,EasyPaisa
+T192,C271,Grocery,Rice Bag,1,3881,3881,3/2/2025,Faisalabad,JazzCash
+T193,C178,Home Appliances,Blender,5,646,3230,9/10/2025,Lahore,JazzCash
+T194,C234,Beauty,Perfume,4,1864,7456,9/16/2025,Islamabad,JazzCash
+T195,C286,Grocery,Cooking Oil,3,3215,9645,12/11/2025,Islamabad,Card
+T196,C106,Clothing,T-Shirt,3,1150,3450,5/5/2025,Islamabad,EasyPaisa
+T197,C272,Home Appliances,Blender,4,3885,15540,9/17/2025,Faisalabad,JazzCash
+T198,C246,Beauty,Perfume,2,1122,2244,8/15/2025,Multan,EasyPaisa
+T199,C86,Clothing,T-Shirt,2,4008,8016,3/31/2025,Islamabad,EasyPaisa
+T200,C174,Electronics,Headphones,3,730,2190,1/2/2025,Faisalabad,Card
+T201,C216,Electronics,Mobile Charger,1,2844,2844,5/26/2025,Karachi,Card
+T202,C241,Electronics,Headphones,4,1206,4824,1/10/2025,Faisalabad,EasyPaisa
+T203,C62,Home Appliances,Blender,1,560,560,12/30/2025,Lahore,EasyPaisa
+T204,C31,Clothing,Jeans,1,881,881,5/3/2025,Lahore,EasyPaisa
+T205,C122,Electronics,Headphones,4,4910,19640,2/8/2025,Faisalabad,JazzCash
+T206,C217,Beauty,Face Wash,3,3114,9342,2/16/2025,Karachi,Cash
+T207,C168,Electronics,Mobile Charger,3,3813,11439,8/2/2025,Lahore,Cash
+T208,C108,Grocery,Rice Bag,3,1055,3165,4/18/2025,Faisalabad,Cash
+T209,C220,Home Appliances,Blender,3,3394,10182,3/27/2025,Islamabad,Cash
+T210,C240,Electronics,Headphones,2,3688,7376,1/28/2025,Lahore,Cash
+T211,C123,Grocery,Cooking Oil,1,1997,1997,7/16/2025,Faisalabad,EasyPaisa
+T212,C258,Clothing,T-Shirt,2,1403,2806,2/27/2025,Karachi,JazzCash
+T213,C171,Beauty,Face Wash,3,3537,10611,2/5/2025,Islamabad,EasyPaisa
+T214,C24,Beauty,Face Wash,4,2062,8248,7/28/2025,Lahore,EasyPaisa
+T215,C72,Electronics,Mobile Charger,5,1755,8775,6/18/2025,Faisalabad,Cash
+T216,C293,Grocery,Rice Bag,5,917,4585,1/25/2025,Islamabad,Cash
+T217,C171,Electronics,Mobile Charger,1,3756,3756,5/28/2025,Islamabad,Card
+T218,C44,Grocery,Rice Bag,4,4392,17568,3/30/2025,Karachi,Card
+T219,C24,Beauty,Perfume,2,3152,6304,2/17/2025,Karachi,EasyPaisa
+T220,C51,Clothing,Jeans,5,4970,24850,4/17/2025,Lahore,EasyPaisa
+T221,C101,Grocery,Cooking Oil,2,4841,9682,12/17/2025,Faisalabad,Card
+T222,C203,Clothing,T-Shirt,5,752,3760,2/8/2025,Karachi,EasyPaisa
+T223,C262,Grocery,Cooking Oil,5,1863,9315,6/4/2025,Lahore,JazzCash
+T224,C74,Home Appliances,Blender,1,1751,1751,11/13/2025,Karachi,EasyPaisa
+T225,C215,Home Appliances,Microwave,4,1635,6540,9/16/2025,Faisalabad,JazzCash
+T226,C178,Beauty,Perfume,4,686,2744,12/5/2025,Islamabad,EasyPaisa
+T227,C225,Beauty,Face Wash,2,2283,4566,6/6/2025,Karachi,EasyPaisa
+T228,C5,Electronics,Headphones,5,1392,6960,5/19/2025,Islamabad,Card
+T229,C167,Grocery,Rice Bag,2,4840,9680,4/15/2025,Karachi,Card
+T230,C265,Grocery,Cooking Oil,4,3606,14424,5/2/2025,Lahore,JazzCash
+T231,C247,Electronics,Mobile Charger,3,1191,3573,12/22/2025,Lahore,Cash
+T232,C249,Beauty,Perfume,1,1432,1432,12/14/2025,Karachi,Card
+T233,C280,Home Appliances,Blender,2,1779,3558,6/26/2025,Lahore,Card
+T234,C203,Home Appliances,Microwave,1,4363,4363,1/6/2025,Multan,Cash
+T235,C84,Home Appliances,Microwave,1,1220,1220,3/11/2025,Faisalabad,JazzCash
+T236,C126,Beauty,Face Wash,3,639,1917,7/30/2025,Multan,EasyPaisa
+T237,C118,Clothing,T-Shirt,3,3363,10089,1/22/2025,Lahore,Card
+T238,C166,Electronics,Headphones,1,4998,4998,12/31/2025,Karachi,Card
+T239,C275,Home Appliances,Blender,4,2003,8012,2/3/2025,Karachi,Cash
+T240,C79,Grocery,Rice Bag,5,2067,10335,5/28/2025,Lahore,JazzCash
+T241,C26,Beauty,Face Wash,4,3561,14244,12/19/2025,Lahore,JazzCash
+T242,C67,Clothing,T-Shirt,3,2845,8535,4/1/2025,Lahore,EasyPaisa
+T243,C117,Grocery,Cooking Oil,4,2039,8156,4/20/2025,Karachi,Card
+T244,C130,Home Appliances,Blender,3,1309,3927,12/25/2025,Multan,Cash
+T245,C145,Clothing,Jeans,1,2552,2552,10/21/2025,Faisalabad,EasyPaisa
+T246,C81,Grocery,Rice Bag,3,4053,12159,11/16/2025,Multan,EasyPaisa
+T247,C119,Beauty,Perfume,3,3986,11958,6/29/2025,Islamabad,JazzCash
+T248,C90,Home Appliances,Microwave,2,3652,7304,4/28/2025,Islamabad,Card
+T249,C78,Electronics,Mobile Charger,1,3611,3611,7/15/2025,Lahore,Cash
+T250,C142,Grocery,Cooking Oil,1,2816,2816,9/7/2025,Islamabad,EasyPaisa
+T251,C267,Grocery,Rice Bag,1,740,740,9/18/2025,Karachi,Card
+T252,C20,Clothing,T-Shirt,1,1994,1994,2/26/2025,Karachi,EasyPaisa
+T253,C90,Home Appliances,Microwave,4,2543,10172,3/3/2025,Karachi,JazzCash
+T254,C169,Home Appliances,Blender,1,2505,2505,6/27/2025,Faisalabad,Cash
+T255,C224,Beauty,Face Wash,1,2738,2738,10/25/2025,Karachi,EasyPaisa
+T256,C139,Clothing,T-Shirt,5,4841,24205,5/14/2025,Karachi,EasyPaisa
+T257,C220,Grocery,Cooking Oil,1,1668,1668,11/29/2025,Faisalabad,Card
+T258,C44,Home Appliances,Microwave,5,3541,17705,1/26/2025,Faisalabad,JazzCash
+T259,C251,Grocery,Rice Bag,2,4136,8272,12/6/2025,Multan,JazzCash
+T260,C133,Clothing,Jeans,1,4039,4039,9/5/2025,Karachi,Cash
+T261,C292,Beauty,Face Wash,2,2094,4188,6/21/2025,Faisalabad,EasyPaisa
+T262,C53,Clothing,T-Shirt,3,2831,8493,5/22/2025,Lahore,EasyPaisa
+T263,C1,Electronics,Mobile Charger,4,1627,6508,9/16/2025,Karachi,JazzCash
+T264,C226,Beauty,Perfume,2,2188,4376,11/24/2025,Faisalabad,JazzCash
+T265,C232,Home Appliances,Microwave,1,1329,1329,3/24/2025,Faisalabad,Cash
+T266,C254,Clothing,Jeans,4,4040,16160,12/20/2025,Karachi,Card
+T267,C266,Beauty,Perfume,1,4152,4152,5/24/2025,Lahore,Cash
+T268,C13,Grocery,Rice Bag,2,2669,5338,11/9/2025,Karachi,EasyPaisa
+T269,C26,Electronics,Headphones,3,4763,14289,12/4/2025,Faisalabad,JazzCash
+T270,C149,Beauty,Perfume,4,1896,7584,3/13/2025,Lahore,EasyPaisa
+T271,C74,Home Appliances,Microwave,3,4227,12681,4/29/2025,Lahore,JazzCash
+T272,C14,Electronics,Headphones,4,1480,5920,9/11/2025,Lahore,Cash
+T273,C110,Clothing,T-Shirt,5,1271,6355,10/16/2025,Faisalabad,Cash
+T274,C46,Beauty,Face Wash,2,2118,4236,5/1/2025,Lahore,Card
+T275,C195,Beauty,Face Wash,5,1247,6235,2/13/2025,Islamabad,Card
+T276,C19,Grocery,Rice Bag,5,1913,9565,10/27/2025,Karachi,Cash
+T277,C225,Clothing,Jeans,4,2797,11188,11/21/2025,Faisalabad,Cash
+T278,C53,Electronics,Mobile Charger,1,2356,2356,3/10/2025,Lahore,EasyPaisa
+T279,C292,Beauty,Perfume,3,4380,13140,3/27/2025,Multan,Card
+T280,C164,Grocery,Cooking Oil,2,2661,5322,5/16/2025,Faisalabad,Card
+T281,C74,Beauty,Perfume,1,1793,1793,11/6/2025,Multan,Cash
+T282,C27,Grocery,Rice Bag,3,1403,4209,2/7/2025,Lahore,JazzCash
+T283,C56,Clothing,T-Shirt,2,3324,6648,5/19/2025,Karachi,Card
+T284,C147,Clothing,Jeans,1,2873,2873,11/10/2025,Multan,EasyPaisa
+T285,C123,Home Appliances,Blender,1,4970,4970,4/1/2025,Karachi,Card
+T286,C199,Grocery,Rice Bag,5,2527,12635,1/19/2025,Islamabad,Card
+T287,C145,Electronics,Headphones,3,3554,10662,5/16/2025,Faisalabad,JazzCash
+T288,C41,Electronics,Mobile Charger,5,3848,19240,4/3/2025,Islamabad,JazzCash
+T289,C122,Electronics,Mobile Charger,5,912,4560,10/16/2025,Islamabad,EasyPaisa
+T290,C42,Electronics,Mobile Charger,4,1208,4832,5/27/2025,Islamabad,JazzCash
+T291,C218,Home Appliances,Blender,5,1805,9025,5/21/2025,Multan,JazzCash
+T292,C112,Grocery,Cooking Oil,4,3229,12916,2/12/2025,Faisalabad,JazzCash
+T293,C222,Clothing,Jeans,4,2810,11240,8/11/2025,Karachi,JazzCash
+T294,C143,Clothing,T-Shirt,5,1633,8165,10/17/2025,Karachi,Cash
+T295,C214,Beauty,Perfume,5,685,3425,5/9/2025,Islamabad,EasyPaisa
+T296,C52,Grocery,Cooking Oil,1,3595,3595,7/7/2025,Karachi,JazzCash
+T297,C86,Electronics,Mobile Charger,4,2136,8544,6/23/2025,Karachi,JazzCash
+T298,C153,Home Appliances,Blender,1,4875,4875,7/9/2025,Lahore,JazzCash
+T299,C216,Home Appliances,Blender,5,3029,15145,8/17/2025,Multan,Card
+T300,C141,Grocery,Cooking Oil,5,4638,23190,9/29/2025,Islamabad,EasyPaisa
+T301,C193,Home Appliances,Microwave,1,4879,4879,3/8/2025,Islamabad,EasyPaisa
+T302,C174,Electronics,Mobile Charger,2,2862,5724,4/5/2025,Karachi,Card
+T303,C215,Grocery,Cooking Oil,4,3433,13732,7/28/2025,Karachi,Card
+T304,C98,Home Appliances,Microwave,5,3295,16475,11/17/2025,Islamabad,Card
+T305,C210,Home Appliances,Microwave,1,2568,2568,2/22/2025,Multan,EasyPaisa
+T306,C258,Clothing,Jeans,1,1886,1886,12/10/2025,Multan,Card
+T307,C163,Beauty,Perfume,3,2769,8307,3/17/2025,Karachi,JazzCash
+T308,C291,Grocery,Rice Bag,2,3938,7876,7/26/2025,Islamabad,JazzCash
+T309,C242,Clothing,Jeans,1,3740,3740,7/7/2025,Multan,EasyPaisa
+T310,C45,Beauty,Perfume,4,961,3844,12/26/2025,Islamabad,Card
+T311,C99,Grocery,Rice Bag,2,1110,2220,2/16/2025,Lahore,JazzCash
+T312,C278,Electronics,Headphones,2,4772,9544,6/1/2025,Karachi,EasyPaisa
+T313,C47,Beauty,Perfume,5,3081,15405,5/9/2025,Lahore,JazzCash
+T314,C77,Grocery,Rice Bag,4,2878,11512,5/14/2025,Faisalabad,Cash
+T315,C241,Grocery,Rice Bag,3,514,1542,6/28/2025,Faisalabad,EasyPaisa
+T316,C71,Clothing,T-Shirt,2,4784,9568,5/23/2025,Karachi,Card
+T317,C142,Home Appliances,Blender,4,598,2392,3/31/2025,Lahore,JazzCash
+T318,C286,Beauty,Face Wash,2,4195,8390,4/15/2025,Faisalabad,Card
+T319,C27,Electronics,Headphones,1,1846,1846,6/4/2025,Karachi,EasyPaisa
+T320,C90,Clothing,Jeans,4,1728,6912,6/15/2025,Islamabad,JazzCash
+T321,C171,Clothing,Jeans,3,1283,3849,9/22/2025,Karachi,Cash
+T322,C98,Electronics,Headphones,5,3515,17575,4/28/2025,Islamabad,Card
+T323,C189,Clothing,T-Shirt,3,2156,6468,3/8/2025,Multan,EasyPaisa
+T324,C89,Home Appliances,Microwave,1,2417,2417,5/29/2025,Karachi,Card
+T325,C53,Home Appliances,Blender,3,864,2592,3/11/2025,Faisalabad,JazzCash
+T326,C108,Clothing,Jeans,2,3461,6922,4/28/2025,Karachi,Cash
+T327,C259,Clothing,T-Shirt,2,1444,2888,3/31/2025,Faisalabad,Card
+T328,C106,Electronics,Headphones,4,4171,16684,11/17/2025,Faisalabad,JazzCash
+T329,C48,Home Appliances,Blender,1,1459,1459,4/6/2025,Karachi,JazzCash
+T330,C64,Clothing,T-Shirt,1,4522,4522,10/24/2025,Lahore,Cash
+T331,C228,Grocery,Cooking Oil,1,1539,1539,1/15/2025,Karachi,EasyPaisa
+T332,C193,Beauty,Face Wash,5,969,4845,11/5/2025,Islamabad,Card
+T333,C281,Grocery,Cooking Oil,5,2642,13210,11/29/2025,Multan,JazzCash
+T334,C37,Home Appliances,Blender,5,1914,9570,10/7/2025,Multan,Cash
+T335,C28,Home Appliances,Microwave,1,551,551,12/8/2025,Karachi,EasyPaisa
+T336,C197,Electronics,Headphones,4,3704,14816,5/23/2025,Karachi,Card
+T337,C13,Home Appliances,Microwave,2,4067,8134,10/1/2025,Multan,EasyPaisa
+T338,C267,Electronics,Headphones,2,1381,2762,12/30/2025,Lahore,Cash
+T339,C164,Clothing,Jeans,3,3525,10575,10/23/2025,Lahore,EasyPaisa
+T340,C294,Beauty,Perfume,3,3860,11580,4/11/2025,Faisalabad,EasyPaisa
+T341,C195,Home Appliances,Microwave,1,601,601,1/28/2025,Lahore,EasyPaisa
+T342,C146,Home Appliances,Microwave,2,4848,9696,3/18/2025,Lahore,JazzCash
+T343,C36,Beauty,Face Wash,3,4390,13170,5/20/2025,Islamabad,Cash
+T344,C127,Clothing,Jeans,1,4953,4953,2/8/2025,Karachi,Cash
+T345,C124,Electronics,Mobile Charger,2,2799,5598,4/17/2025,Multan,EasyPaisa
+T346,C113,Home Appliances,Microwave,1,4447,4447,11/5/2025,Lahore,EasyPaisa
+T347,C297,Electronics,Headphones,4,711,2844,10/22/2025,Karachi,Card
+T348,C266,Clothing,T-Shirt,4,867,3468,1/16/2025,Faisalabad,Card
+T349,C239,Grocery,Rice Bag,5,1537,7685,5/15/2025,Faisalabad,EasyPaisa
+T350,C38,Home Appliances,Microwave,3,1485,4455,3/2/2025,Karachi,JazzCash
+T351,C61,Clothing,Jeans,1,1735,1735,4/11/2025,Faisalabad,Cash
+T352,C233,Clothing,Jeans,1,516,516,4/18/2025,Lahore,Card
+T353,C120,Home Appliances,Microwave,2,1531,3062,1/6/2025,Faisalabad,JazzCash
+T354,C159,Clothing,Jeans,2,4162,8324,9/5/2025,Karachi,Card
+T355,C42,Beauty,Perfume,1,2712,2712,8/7/2025,Islamabad,EasyPaisa
+T356,C62,Home Appliances,Microwave,5,1544,7720,2/21/2025,Multan,EasyPaisa
+T357,C12,Electronics,Mobile Charger,3,4585,13755,12/29/2025,Faisalabad,EasyPaisa
+T358,C276,Electronics,Mobile Charger,4,3563,14252,2/6/2025,Faisalabad,Card
+T359,C194,Home Appliances,Microwave,1,972,972,8/10/2025,Lahore,JazzCash
+T360,C247,Electronics,Headphones,4,4600,18400,10/22/2025,Islamabad,Cash
+T361,C66,Clothing,T-Shirt,1,3793,3793,4/7/2025,Islamabad,EasyPaisa
+T362,C70,Clothing,T-Shirt,3,2971,8913,4/5/2025,Islamabad,Cash
+T363,C261,Clothing,T-Shirt,5,519,2595,2/25/2025,Lahore,Card
+T364,C178,Home Appliances,Blender,3,2530,7590,6/26/2025,Karachi,EasyPaisa
+T365,C209,Grocery,Rice Bag,5,3363,16815,6/4/2025,Islamabad,JazzCash
+T366,C140,Clothing,T-Shirt,4,4037,16148,6/6/2025,Lahore,Cash
+T367,C105,Beauty,Perfume,3,4740,14220,11/29/2025,Multan,Card
+T368,C195,Grocery,Rice Bag,5,4373,21865,4/7/2025,Karachi,EasyPaisa
+T369,C186,Beauty,Perfume,3,672,2016,2/1/2025,Lahore,JazzCash
+T370,C258,Clothing,T-Shirt,2,2860,5720,6/27/2025,Faisalabad,Card
+T371,C186,Clothing,T-Shirt,1,2001,2001,11/23/2025,Faisalabad,EasyPaisa
+T372,C285,Beauty,Face Wash,3,1387,4161,3/13/2025,Karachi,JazzCash
+T373,C152,Electronics,Mobile Charger,3,4587,13761,8/11/2025,Multan,EasyPaisa
+T374,C83,Beauty,Face Wash,1,4769,4769,5/3/2025,Multan,EasyPaisa
+T375,C186,Beauty,Perfume,2,2722,5444,6/29/2025,Faisalabad,JazzCash
+T376,C55,Beauty,Face Wash,3,2500,7500,9/8/2025,Karachi,JazzCash
+T377,C48,Home Appliances,Microwave,1,630,630,8/28/2025,Multan,EasyPaisa
+T378,C243,Home Appliances,Microwave,2,2798,5596,6/13/2025,Islamabad,JazzCash
+T379,C35,Electronics,Mobile Charger,2,4597,9194,11/10/2025,Lahore,EasyPaisa
+T380,C25,Grocery,Rice Bag,2,536,1072,2/9/2025,Multan,EasyPaisa
+T381,C77,Beauty,Perfume,5,705,3525,1/5/2025,Multan,Cash
+T382,C234,Beauty,Perfume,3,2441,7323,11/24/2025,Islamabad,JazzCash
+T383,C143,Electronics,Headphones,2,4287,8574,7/18/2025,Islamabad,EasyPaisa
+T384,C108,Clothing,Jeans,2,2631,5262,7/2/2025,Faisalabad,EasyPaisa
+T385,C200,Clothing,T-Shirt,4,4456,17824,10/19/2025,Faisalabad,JazzCash
+T386,C122,Clothing,Jeans,5,4442,22210,12/1/2025,Karachi,Card
+T387,C45,Grocery,Cooking Oil,2,618,1236,10/11/2025,Faisalabad,EasyPaisa
+T388,C83,Beauty,Face Wash,2,2128,4256,7/13/2025,Faisalabad,EasyPaisa
+T389,C207,Electronics,Headphones,5,845,4225,7/29/2025,Multan,JazzCash
+T390,C10,Beauty,Face Wash,4,4555,18220,8/11/2025,Lahore,JazzCash
+T391,C166,Grocery,Rice Bag,4,1501,6004,2/2/2025,Multan,JazzCash
+T392,C290,Home Appliances,Blender,2,2157,4314,3/1/2025,Multan,Cash
+T393,C198,Beauty,Perfume,2,2392,4784,5/12/2025,Karachi,EasyPaisa
+T394,C265,Clothing,T-Shirt,4,4506,18024,6/12/2025,Karachi,JazzCash
+T395,C216,Clothing,T-Shirt,3,733,2199,10/17/2025,Islamabad,JazzCash
+T396,C192,Grocery,Rice Bag,3,2006,6018,8/25/2025,Lahore,JazzCash
+T397,C198,Electronics,Mobile Charger,2,2671,5342,5/6/2025,Karachi,JazzCash
+T398,C169,Beauty,Perfume,3,4567,13701,7/3/2025,Karachi,EasyPaisa
+T399,C15,Grocery,Rice Bag,1,3644,3644,8/1/2025,Lahore,Card
+T400,C273,Grocery,Cooking Oil,1,4458,4458,1/1/2025,Multan,Cash
+T401,C2,Home Appliances,Microwave,4,2363,9452,6/1/2025,Lahore,EasyPaisa
+T402,C68,Electronics,Mobile Charger,2,4566,9132,3/1/2025,Karachi,Cash
+T403,C106,Clothing,T-Shirt,3,2846,8538,4/8/2025,Faisalabad,EasyPaisa
+T404,C162,Home Appliances,Blender,3,1260,3780,9/24/2025,Karachi,Cash
+T405,C233,Grocery,Rice Bag,3,2533,7599,10/9/2025,Karachi,Cash
+T406,C42,Beauty,Face Wash,5,4432,22160,3/5/2025,Karachi,JazzCash
+T407,C212,Grocery,Cooking Oil,2,3954,7908,2/23/2025,Karachi,Cash
+T408,C13,Electronics,Mobile Charger,5,3390,16950,1/22/2025,Karachi,Cash
+T409,C259,Electronics,Headphones,2,518,1036,8/8/2025,Lahore,EasyPaisa
+T410,C295,Beauty,Perfume,2,1259,2518,5/30/2025,Karachi,EasyPaisa
+T411,C232,Grocery,Cooking Oil,4,2927,11708,2/12/2025,Multan,Cash
+T412,C116,Beauty,Perfume,4,1464,5856,4/4/2025,Karachi,JazzCash
+T413,C218,Beauty,Face Wash,1,4553,4553,6/7/2025,Faisalabad,JazzCash
+T414,C294,Electronics,Mobile Charger,2,922,1844,4/12/2025,Lahore,Cash
+T415,C229,Home Appliances,Blender,2,3533,7066,4/24/2025,Multan,JazzCash
+T416,C74,Electronics,Headphones,1,2562,2562,3/2/2025,Lahore,JazzCash
+T417,C197,Clothing,Jeans,2,3943,7886,9/1/2025,Lahore,JazzCash
+T418,C13,Beauty,Perfume,4,3811,15244,8/6/2025,Lahore,Cash
+T419,C46,Grocery,Rice Bag,4,1775,7100,7/25/2025,Faisalabad,Cash
+T420,C127,Clothing,Jeans,2,699,1398,5/12/2025,Faisalabad,Card
+T421,C268,Beauty,Face Wash,5,2053,10265,2/8/2025,Islamabad,JazzCash
+T422,C213,Grocery,Rice Bag,2,4080,8160,3/18/2025,Lahore,Card
+T423,C23,Grocery,Cooking Oil,2,3076,6152,6/11/2025,Karachi,EasyPaisa
+T424,C143,Grocery,Rice Bag,3,3026,9078,6/15/2025,Islamabad,JazzCash
+T425,C207,Electronics,Mobile Charger,3,4929,14787,2/13/2025,Islamabad,EasyPaisa
+T426,C20,Home Appliances,Microwave,4,767,3068,8/22/2025,Islamabad,EasyPaisa
+T427,C275,Beauty,Perfume,1,4909,4909,6/4/2025,Lahore,Card
+T428,C2,Clothing,T-Shirt,4,2438,9752,5/3/2025,Faisalabad,EasyPaisa
+T429,C135,Home Appliances,Blender,1,3286,3286,1/15/2025,Faisalabad,JazzCash
+T430,C296,Beauty,Face Wash,3,4055,12165,9/28/2025,Multan,Card
+T431,C100,Clothing,T-Shirt,1,513,513,3/7/2025,Multan,Cash
+T432,C223,Grocery,Rice Bag,3,1919,5757,1/1/2025,Lahore,JazzCash
+T433,C148,Electronics,Headphones,4,1222,4888,1/6/2025,Islamabad,EasyPaisa
+T434,C40,Beauty,Perfume,5,1442,7210,11/15/2025,Lahore,JazzCash
+T435,C286,Electronics,Headphones,1,3578,3578,7/13/2025,Faisalabad,Card
+T436,C125,Home Appliances,Blender,4,1357,5428,3/30/2025,Multan,EasyPaisa
+T437,C238,Clothing,T-Shirt,2,2909,5818,3/5/2025,Multan,Card
+T438,C286,Home Appliances,Microwave,5,3754,18770,8/6/2025,Multan,Cash
+T439,C5,Clothing,Jeans,4,4599,18396,2/10/2025,Islamabad,JazzCash
+T440,C34,Electronics,Headphones,2,4464,8928,1/13/2025,Islamabad,JazzCash
+T441,C289,Beauty,Perfume,2,4566,9132,4/27/2025,Multan,JazzCash
+T442,C111,Grocery,Cooking Oil,1,4529,4529,4/9/2025,Islamabad,Card
+T443,C18,Electronics,Mobile Charger,2,2019,4038,2/8/2025,Lahore,Card
+T444,C212,Electronics,Headphones,5,1485,7425,12/27/2025,Faisalabad,JazzCash
+T445,C146,Beauty,Perfume,3,4815,14445,12/11/2025,Multan,JazzCash
+T446,C149,Grocery,Rice Bag,5,1041,5205,5/23/2025,Multan,Card
+T447,C262,Clothing,Jeans,1,3186,3186,5/14/2025,Faisalabad,EasyPaisa
+T448,C75,Clothing,T-Shirt,5,4614,23070,4/7/2025,Multan,EasyPaisa
+T449,C64,Electronics,Mobile Charger,4,4481,17924,10/8/2025,Lahore,JazzCash
+T450,C111,Beauty,Face Wash,2,978,1956,8/28/2025,Faisalabad,EasyPaisa
+T451,C157,Electronics,Headphones,3,3480,10440,2/20/2025,Lahore,Cash
+T452,C60,Beauty,Perfume,3,2176,6528,10/5/2025,Lahore,Cash
+T453,C251,Home Appliances,Microwave,2,2963,5926,6/5/2025,Multan,EasyPaisa
+T454,C208,Home Appliances,Microwave,5,2718,13590,9/27/2025,Islamabad,EasyPaisa
+T455,C128,Home Appliances,Microwave,1,2034,2034,12/6/2025,Islamabad,JazzCash
+T456,C211,Grocery,Rice Bag,1,3498,3498,11/3/2025,Lahore,EasyPaisa
+T457,C39,Home Appliances,Blender,3,2399,7197,9/14/2025,Faisalabad,Cash
+T458,C229,Beauty,Perfume,2,3003,6006,6/20/2025,Multan,Cash
+T459,C164,Home Appliances,Microwave,2,4947,9894,12/29/2025,Faisalabad,EasyPaisa
+T460,C112,Electronics,Headphones,4,1177,4708,1/27/2025,Islamabad,JazzCash
+T461,C134,Clothing,Jeans,3,2425,7275,10/1/2025,Islamabad,Cash
+T462,C272,Beauty,Face Wash,4,561,2244,11/12/2025,Karachi,Cash
+T463,C167,Grocery,Rice Bag,4,1666,6664,3/15/2025,Faisalabad,EasyPaisa
+T464,C61,Beauty,Perfume,5,801,4005,6/15/2025,Multan,JazzCash
+T465,C34,Grocery,Cooking Oil,4,4686,18744,3/9/2025,Islamabad,Card
+T466,C85,Electronics,Headphones,1,4088,4088,9/27/2025,Faisalabad,JazzCash
+T467,C241,Home Appliances,Blender,2,1529,3058,5/22/2025,Multan,Card
+T468,C76,Beauty,Perfume,5,2831,14155,5/17/2025,Karachi,Cash
+T469,C51,Beauty,Face Wash,4,2317,9268,7/24/2025,Islamabad,JazzCash
+T470,C123,Home Appliances,Blender,2,1124,2248,8/3/2025,Karachi,Card
+T471,C38,Grocery,Cooking Oil,3,4729,14187,11/21/2025,Multan,Cash
+T472,C183,Grocery,Rice Bag,1,1207,1207,7/27/2025,Lahore,Card
+T473,C245,Electronics,Mobile Charger,4,3240,12960,12/13/2025,Karachi,JazzCash
+T474,C24,Home Appliances,Microwave,3,910,2730,4/2/2025,Lahore,JazzCash
+T475,C201,Clothing,T-Shirt,3,3267,9801,2/10/2025,Faisalabad,JazzCash
+T476,C194,Beauty,Perfume,1,3609,3609,1/24/2025,Lahore,Card
+T477,C124,Electronics,Headphones,4,1109,4436,5/1/2025,Karachi,EasyPaisa
+T478,C174,Grocery,Rice Bag,5,1303,6515,5/27/2025,Multan,JazzCash
+T479,C147,Clothing,Jeans,1,789,789,9/19/2025,Multan,JazzCash
+T480,C282,Clothing,Jeans,5,845,4225,5/30/2025,Karachi,Card
+T481,C211,Home Appliances,Blender,5,3249,16245,10/2/2025,Lahore,Cash
+T482,C292,Beauty,Face Wash,3,2514,7542,8/12/2025,Lahore,EasyPaisa
+T483,C152,Clothing,T-Shirt,3,4963,14889,5/25/2025,Multan,Cash
+T484,C62,Home Appliances,Blender,5,4502,22510,5/24/2025,Faisalabad,Card
+T485,C226,Clothing,T-Shirt,3,2812,8436,10/1/2025,Multan,JazzCash
+T486,C152,Clothing,Jeans,2,4677,9354,11/2/2025,Lahore,Cash
+T487,C284,Clothing,T-Shirt,1,570,570,3/19/2025,Faisalabad,Card
+T488,C258,Grocery,Cooking Oil,4,1148,4592,7/30/2025,Islamabad,Card
+T489,C140,Electronics,Mobile Charger,3,3412,10236,3/12/2025,Faisalabad,Cash
+T490,C27,Electronics,Mobile Charger,2,1508,3016,2/18/2025,Karachi,JazzCash
+T491,C137,Home Appliances,Microwave,3,4642,13926,3/13/2025,Karachi,Card
+T492,C219,Grocery,Rice Bag,3,2445,7335,2/19/2025,Karachi,Card
+T493,C21,Grocery,Cooking Oil,5,4203,21015,11/26/2025,Islamabad,EasyPaisa
+T494,C49,Clothing,Jeans,3,3276,9828,10/20/2025,Karachi,EasyPaisa
+T495,C238,Home Appliances,Microwave,4,2216,8864,7/1/2025,Multan,EasyPaisa
+T496,C5,Electronics,Headphones,2,3410,6820,2/6/2025,Multan,EasyPaisa
+T497,C75,Electronics,Mobile Charger,2,1979,3958,5/27/2025,Multan,JazzCash
+T498,C263,Electronics,Headphones,2,4646,9292,3/22/2025,Multan,EasyPaisa
+T499,C113,Beauty,Face Wash,3,2313,6939,12/22/2025,Karachi,JazzCash
+T500,C80,Beauty,Perfume,1,2386,2386,1/22/2025,Faisalabad,EasyPaisa
+T501,C157,Grocery,Rice Bag,2,2923,5846,3/20/2025,Karachi,Card
+T502,C68,Grocery,Rice Bag,2,820,1640,2/27/2025,Islamabad,Card
+T503,C200,Home Appliances,Blender,2,524,1048,10/16/2025,Faisalabad,Cash
+T504,C144,Grocery,Cooking Oil,2,563,1126,11/4/2025,Faisalabad,Cash
+T505,C5,Electronics,Mobile Charger,1,2110,2110,5/30/2025,Multan,JazzCash
+T506,C224,Clothing,T-Shirt,5,4327,21635,11/25/2025,Lahore,Card
+T507,C256,Electronics,Headphones,4,3649,14596,8/2/2025,Karachi,EasyPaisa
+T508,C296,Home Appliances,Blender,1,1793,1793,10/16/2025,Multan,EasyPaisa
+T509,C126,Grocery,Rice Bag,2,598,1196,1/10/2025,Islamabad,JazzCash
+T510,C135,Beauty,Perfume,5,4424,22120,6/21/2025,Faisalabad,JazzCash
+T511,C276,Clothing,T-Shirt,1,4858,4858,1/31/2025,Multan,JazzCash
+T512,C184,Grocery,Cooking Oil,5,1221,6105,7/3/2025,Faisalabad,Card
+T513,C94,Home Appliances,Blender,2,3192,6384,1/25/2025,Islamabad,Cash
+T514,C260,Grocery,Cooking Oil,1,4552,4552,9/14/2025,Karachi,JazzCash
+T515,C227,Home Appliances,Microwave,2,1148,2296,3/5/2025,Faisalabad,EasyPaisa
+T516,C271,Beauty,Perfume,2,816,1632,4/5/2025,Islamabad,EasyPaisa
+T517,C49,Grocery,Rice Bag,1,4238,4238,9/3/2025,Lahore,JazzCash
+T518,C26,Grocery,Rice Bag,3,2383,7149,1/19/2025,Islamabad,EasyPaisa
+T519,C234,Clothing,Jeans,2,2528,5056,2/18/2025,Lahore,Card
+T520,C24,Clothing,Jeans,4,3168,12672,11/20/2025,Islamabad,JazzCash
+T521,C263,Home Appliances,Blender,4,4478,17912,5/14/2025,Multan,EasyPaisa
+T522,C272,Clothing,T-Shirt,4,3640,14560,8/26/2025,Multan,Cash
+T523,C146,Clothing,T-Shirt,1,3179,3179,8/27/2025,Lahore,Card
+T524,C247,Grocery,Rice Bag,5,4634,23170,12/31/2025,Faisalabad,Cash
+T525,C293,Clothing,Jeans,5,1831,9155,8/11/2025,Islamabad,Card
+T526,C19,Home Appliances,Blender,2,2875,5750,8/17/2025,Faisalabad,JazzCash
+T527,C74,Electronics,Mobile Charger,1,1244,1244,6/4/2025,Multan,Cash
+T528,C217,Home Appliances,Microwave,1,1382,1382,6/13/2025,Faisalabad,Card
+T529,C123,Beauty,Face Wash,4,1751,7004,8/17/2025,Lahore,EasyPaisa
+T530,C292,Grocery,Cooking Oil,4,3618,14472,3/25/2025,Multan,Cash
+T531,C89,Clothing,T-Shirt,3,2771,8313,9/14/2025,Lahore,Cash
+T532,C97,Grocery,Rice Bag,3,4845,14535,5/2/2025,Lahore,Card
+T533,C208,Grocery,Cooking Oil,4,3133,12532,2/7/2025,Islamabad,JazzCash
+T534,C254,Electronics,Mobile Charger,3,644,1932,9/8/2025,Lahore,EasyPaisa
+T535,C227,Electronics,Mobile Charger,1,1704,1704,12/3/2025,Islamabad,JazzCash
+T536,C206,Grocery,Cooking Oil,2,1219,2438,12/26/2025,Karachi,Card
+T537,C235,Home Appliances,Microwave,2,3108,6216,6/17/2025,Lahore,Cash
+T538,C193,Electronics,Mobile Charger,1,1059,1059,5/16/2025,Islamabad,Cash
+T539,C38,Beauty,Face Wash,5,1283,6415,6/23/2025,Multan,EasyPaisa
+T540,C274,Grocery,Rice Bag,5,2762,13810,4/15/2025,Islamabad,EasyPaisa
+T541,C279,Grocery,Cooking Oil,4,3968,15872,7/8/2025,Islamabad,JazzCash
+T542,C16,Beauty,Perfume,1,1095,1095,11/23/2025,Islamabad,JazzCash
+T543,C208,Electronics,Mobile Charger,2,3448,6896,5/14/2025,Multan,Cash
+T544,C204,Electronics,Headphones,3,4056,12168,8/12/2025,Islamabad,JazzCash
+T545,C227,Electronics,Mobile Charger,1,2211,2211,12/31/2025,Islamabad,Cash
+T546,C216,Beauty,Perfume,4,2739,10956,7/28/2025,Multan,JazzCash
+T547,C268,Clothing,T-Shirt,1,1126,1126,4/24/2025,Lahore,JazzCash
+T548,C282,Beauty,Perfume,1,2418,2418,12/11/2025,Islamabad,Cash
+T549,C131,Clothing,Jeans,5,3349,16745,7/24/2025,Lahore,Card
+T550,C55,Electronics,Headphones,1,3426,3426,4/14/2025,Faisalabad,Cash
+T551,C152,Electronics,Headphones,4,554,2216,9/24/2025,Karachi,JazzCash
+T552,C164,Beauty,Perfume,3,1920,5760,10/3/2025,Faisalabad,EasyPaisa
+T553,C156,Home Appliances,Microwave,3,2149,6447,8/25/2025,Multan,Card
+T554,C240,Home Appliances,Microwave,3,3264,9792,5/3/2025,Lahore,EasyPaisa
+T555,C32,Home Appliances,Microwave,3,3332,9996,5/3/2025,Karachi,Card
+T556,C115,Clothing,Jeans,3,1444,4332,9/4/2025,Karachi,Cash
+T557,C25,Beauty,Face Wash,1,4771,4771,7/31/2025,Lahore,Cash
+T558,C75,Electronics,Headphones,2,1797,3594,9/15/2025,Islamabad,Card
+T559,C230,Grocery,Cooking Oil,1,2553,2553,6/22/2025,Lahore,Cash
+T560,C26,Electronics,Mobile Charger,5,2911,14555,2/5/2025,Lahore,EasyPaisa
+T561,C142,Home Appliances,Microwave,4,2135,8540,11/12/2025,Faisalabad,EasyPaisa
+T562,C278,Grocery,Cooking Oil,2,2960,5920,1/18/2025,Multan,JazzCash
+T563,C164,Clothing,Jeans,5,3321,16605,1/1/2025,Multan,Card
+T564,C275,Grocery,Cooking Oil,1,4222,4222,3/26/2025,Faisalabad,Cash
+T565,C146,Home Appliances,Blender,2,3108,6216,11/23/2025,Lahore,JazzCash
+T566,C238,Clothing,T-Shirt,5,3899,19495,10/10/2025,Faisalabad,EasyPaisa
+T567,C164,Electronics,Mobile Charger,5,2495,12475,7/5/2025,Faisalabad,EasyPaisa
+T568,C177,Beauty,Face Wash,2,3224,6448,9/28/2025,Multan,Card
+T569,C130,Grocery,Cooking Oil,5,2401,12005,11/8/2025,Faisalabad,EasyPaisa
+T570,C27,Clothing,T-Shirt,2,812,1624,2/5/2025,Faisalabad,Cash
+T571,C238,Electronics,Headphones,4,3978,15912,7/25/2025,Multan,Card
+T572,C95,Electronics,Headphones,3,2533,7599,11/7/2025,Islamabad,JazzCash
+T573,C162,Clothing,T-Shirt,5,1978,9890,7/5/2025,Multan,Card
+T574,C86,Home Appliances,Microwave,5,1340,6700,4/11/2025,Islamabad,JazzCash
+T575,C140,Home Appliances,Blender,5,4701,23505,4/26/2025,Karachi,JazzCash
+T576,C46,Grocery,Rice Bag,4,4983,19932,2/18/2025,Islamabad,Cash
+T577,C143,Clothing,T-Shirt,5,3482,17410,6/6/2025,Karachi,EasyPaisa
+T578,C230,Clothing,Jeans,5,3233,16165,8/10/2025,Karachi,EasyPaisa
+T579,C159,Clothing,Jeans,4,1793,7172,1/18/2025,Karachi,EasyPaisa
+T580,C7,Electronics,Mobile Charger,2,2461,4922,6/23/2025,Faisalabad,Cash
+T581,C177,Home Appliances,Blender,2,3735,7470,6/8/2025,Multan,Card
+T582,C122,Electronics,Mobile Charger,2,3286,6572,10/17/2025,Faisalabad,Cash
+T583,C105,Clothing,Jeans,2,3229,6458,9/20/2025,Faisalabad,Card
+T584,C79,Home Appliances,Blender,4,2562,10248,12/10/2025,Islamabad,Card
+T585,C295,Grocery,Rice Bag,4,1254,5016,4/23/2025,Karachi,JazzCash
+T586,C1,Clothing,Jeans,5,1437,7185,6/7/2025,Islamabad,Cash
+T587,C82,Electronics,Headphones,5,3891,19455,7/14/2025,Islamabad,Card
+T588,C56,Electronics,Headphones,2,1625,3250,10/6/2025,Islamabad,JazzCash
+T589,C266,Beauty,Face Wash,2,3497,6994,3/31/2025,Islamabad,EasyPaisa
+T590,C254,Home Appliances,Microwave,2,2853,5706,6/6/2025,Karachi,Cash
+T591,C261,Beauty,Face Wash,3,620,1860,5/4/2025,Lahore,EasyPaisa
+T592,C13,Beauty,Face Wash,1,2450,2450,6/24/2025,Faisalabad,Card
+T593,C28,Clothing,Jeans,1,1499,1499,10/12/2025,Islamabad,Card
+T594,C226,Clothing,Jeans,5,1150,5750,11/11/2025,Faisalabad,JazzCash
+T595,C119,Beauty,Face Wash,1,1045,1045,6/22/2025,Islamabad,Cash
+T596,C298,Grocery,Rice Bag,1,3596,3596,5/5/2025,Karachi,EasyPaisa
+T597,C59,Clothing,T-Shirt,5,4983,24915,6/21/2025,Multan,JazzCash
+T598,C137,Electronics,Mobile Charger,4,1564,6256,5/6/2025,Karachi,Cash
+T599,C158,Clothing,T-Shirt,5,1411,7055,2/22/2025,Faisalabad,EasyPaisa
+T600,C141,Clothing,Jeans,1,1410,1410,1/1/2025,Faisalabad,Cash
+T601,C285,Grocery,Rice Bag,3,1516,4548,9/7/2025,Faisalabad,Cash
+T602,C41,Grocery,Cooking Oil,3,2346,7038,12/12/2025,Multan,Cash
+T603,C192,Electronics,Mobile Charger,1,2617,2617,5/27/2025,Faisalabad,Card
+T604,C165,Clothing,Jeans,5,1869,9345,1/22/2025,Lahore,Cash
+T605,C242,Beauty,Perfume,2,2220,4440,2/17/2025,Multan,JazzCash
+T606,C291,Home Appliances,Microwave,5,2368,11840,7/15/2025,Multan,Cash
+T607,C97,Clothing,T-Shirt,5,3669,18345,3/26/2025,Islamabad,Card
+T608,C43,Grocery,Rice Bag,5,965,4825,6/18/2025,Islamabad,Card
+T609,C241,Grocery,Cooking Oil,3,1664,4992,5/28/2025,Lahore,JazzCash
+T610,C29,Electronics,Headphones,2,1747,3494,12/9/2025,Lahore,JazzCash
+T611,C189,Electronics,Mobile Charger,5,4935,24675,3/27/2025,Multan,Cash
+T612,C76,Beauty,Face Wash,2,755,1510,11/18/2025,Faisalabad,JazzCash
+T613,C132,Clothing,T-Shirt,2,4204,8408,7/25/2025,Karachi,Cash
+T614,C151,Beauty,Perfume,4,4298,17192,6/6/2025,Multan,Card
+T615,C204,Beauty,Face Wash,4,3049,12196,6/5/2025,Islamabad,Cash
+T616,C231,Electronics,Headphones,3,612,1836,3/16/2025,Multan,Card
+T617,C180,Home Appliances,Microwave,2,1756,3512,8/16/2025,Multan,Card
+T618,C79,Home Appliances,Microwave,5,1166,5830,7/14/2025,Lahore,Cash
+T619,C274,Beauty,Face Wash,5,4160,20800,1/3/2025,Faisalabad,Cash
+T620,C117,Beauty,Face Wash,5,2647,13235,8/18/2025,Lahore,JazzCash
+T621,C74,Clothing,Jeans,4,2921,11684,2/5/2025,Faisalabad,Card
+T622,C208,Clothing,T-Shirt,5,1681,8405,12/29/2025,Multan,EasyPaisa
+T623,C155,Grocery,Cooking Oil,4,4418,17672,8/8/2025,Lahore,Cash
+T624,C156,Beauty,Face Wash,4,2869,11476,5/12/2025,Multan,Card
+T625,C179,Electronics,Mobile Charger,4,4716,18864,1/13/2025,Faisalabad,Card
+T626,C10,Grocery,Cooking Oil,5,909,4545,10/23/2025,Faisalabad,EasyPaisa
+T627,C190,Home Appliances,Blender,3,1875,5625,10/31/2025,Lahore,EasyPaisa
+T628,C80,Clothing,Jeans,3,3668,11004,9/3/2025,Multan,Card
+T629,C17,Electronics,Mobile Charger,2,795,1590,1/11/2025,Lahore,EasyPaisa
+T630,C201,Beauty,Face Wash,5,507,2535,4/15/2025,Multan,JazzCash
+T631,C161,Clothing,Jeans,1,1080,1080,8/3/2025,Lahore,Cash
+T632,C31,Beauty,Face Wash,4,3310,13240,7/28/2025,Faisalabad,JazzCash
+T633,C61,Grocery,Rice Bag,5,3059,15295,4/20/2025,Multan,JazzCash
+T634,C186,Clothing,T-Shirt,1,1196,1196,6/26/2025,Faisalabad,EasyPaisa
+T635,C110,Home Appliances,Microwave,4,3938,15752,1/10/2025,Lahore,JazzCash
+T636,C220,Beauty,Face Wash,4,2614,10456,5/17/2025,Faisalabad,JazzCash
+T637,C32,Clothing,Jeans,3,1920,5760,7/10/2025,Multan,EasyPaisa
+T638,C56,Electronics,Headphones,5,2949,14745,9/12/2025,Lahore,Cash
+T639,C237,Grocery,Rice Bag,5,4547,22735,3/12/2025,Karachi,Cash
+T640,C128,Beauty,Perfume,4,1020,4080,2/10/2025,Lahore,Cash
+T641,C279,Beauty,Perfume,1,3437,3437,5/4/2025,Faisalabad,EasyPaisa
+T642,C265,Home Appliances,Blender,4,2352,9408,12/19/2025,Faisalabad,Card
+T643,C27,Beauty,Perfume,4,2701,10804,6/16/2025,Multan,Card
+T644,C206,Clothing,T-Shirt,5,4267,21335,3/1/2025,Karachi,Card
+T645,C49,Electronics,Headphones,1,628,628,11/16/2025,Lahore,EasyPaisa
+T646,C100,Clothing,Jeans,1,4592,4592,10/17/2025,Karachi,Cash
+T647,C206,Grocery,Cooking Oil,1,2889,2889,1/31/2025,Faisalabad,EasyPaisa
+T648,C177,Grocery,Cooking Oil,5,1261,6305,8/30/2025,Karachi,Card
+T649,C194,Beauty,Perfume,1,4924,4924,1/15/2025,Lahore,Cash
+T650,C87,Home Appliances,Microwave,1,3678,3678,11/25/2025,Islamabad,Card
+T651,C288,Grocery,Cooking Oil,3,1510,4530,3/23/2025,Karachi,EasyPaisa
+T652,C158,Clothing,Jeans,4,2489,9956,2/20/2025,Multan,EasyPaisa
+T653,C15,Electronics,Mobile Charger,2,2415,4830,1/24/2025,Lahore,Cash
+T654,C106,Home Appliances,Microwave,5,4803,24015,6/12/2025,Islamabad,Card
+T655,C210,Beauty,Face Wash,4,4132,16528,4/16/2025,Karachi,EasyPaisa
+T656,C145,Clothing,Jeans,3,1456,4368,4/14/2025,Islamabad,Cash
+T657,C295,Beauty,Perfume,4,2118,8472,12/11/2025,Faisalabad,Cash
+T658,C76,Home Appliances,Microwave,1,549,549,7/1/2025,Lahore,Card
+T659,C196,Grocery,Cooking Oil,2,934,1868,9/30/2025,Lahore,EasyPaisa
+T660,C202,Home Appliances,Microwave,2,999,1998,9/15/2025,Islamabad,EasyPaisa
+T661,C222,Home Appliances,Blender,3,4520,13560,7/30/2025,Faisalabad,Cash
+T662,C237,Beauty,Perfume,5,1203,6015,3/1/2025,Faisalabad,EasyPaisa
+T663,C78,Grocery,Cooking Oil,1,3261,3261,6/12/2025,Lahore,Cash
+T664,C230,Clothing,T-Shirt,3,1718,5154,7/31/2025,Faisalabad,Cash
+T665,C285,Electronics,Mobile Charger,4,3294,13176,4/2/2025,Multan,EasyPaisa
+T666,C113,Clothing,T-Shirt,5,3257,16285,11/23/2025,Multan,EasyPaisa
+T667,C279,Electronics,Headphones,1,3601,3601,4/29/2025,Lahore,EasyPaisa
+T668,C41,Clothing,Jeans,1,539,539,10/11/2025,Lahore,JazzCash
+T669,C40,Electronics,Mobile Charger,4,902,3608,10/3/2025,Karachi,Cash
+T670,C40,Electronics,Headphones,3,2773,8319,3/10/2025,Faisalabad,EasyPaisa
+T671,C210,Clothing,T-Shirt,2,3375,6750,2/8/2025,Lahore,EasyPaisa
+T672,C111,Clothing,Jeans,1,3620,3620,3/12/2025,Karachi,Cash
+T673,C109,Home Appliances,Blender,3,4866,14598,5/19/2025,Islamabad,JazzCash
+T674,C91,Clothing,Jeans,2,3028,6056,10/11/2025,Karachi,JazzCash
+T675,C298,Home Appliances,Microwave,4,1633,6532,9/20/2025,Lahore,Cash
+T676,C115,Clothing,T-Shirt,3,1173,3519,8/28/2025,Lahore,JazzCash
+T677,C38,Clothing,Jeans,2,3707,7414,9/3/2025,Karachi,Cash
+T678,C282,Clothing,Jeans,1,4964,4964,1/12/2025,Multan,Card
+T679,C275,Grocery,Rice Bag,1,3896,3896,1/25/2025,Multan,Cash
+T680,C138,Grocery,Cooking Oil,2,2452,4904,2/28/2025,Multan,Cash
+T681,C153,Clothing,Jeans,4,2187,8748,12/27/2025,Multan,Cash
+T682,C56,Home Appliances,Microwave,3,1426,4278,9/4/2025,Faisalabad,Card
+T683,C21,Electronics,Mobile Charger,5,4607,23035,4/22/2025,Karachi,JazzCash
+T684,C297,Grocery,Rice Bag,1,4884,4884,12/18/2025,Lahore,JazzCash
+T685,C284,Grocery,Rice Bag,4,4850,19400,8/31/2025,Lahore,Cash
+T686,C150,Home Appliances,Microwave,5,895,4475,4/26/2025,Faisalabad,EasyPaisa
+T687,C191,Home Appliances,Blender,1,2435,2435,1/8/2025,Lahore,Cash
+T688,C25,Clothing,Jeans,5,1770,8850,4/4/2025,Multan,EasyPaisa
+T689,C280,Home Appliances,Microwave,5,3373,16865,3/4/2025,Lahore,Card
+T690,C37,Home Appliances,Blender,1,1852,1852,11/4/2025,Faisalabad,Card
+T691,C285,Grocery,Rice Bag,4,919,3676,8/8/2025,Lahore,Cash
+T692,C25,Home Appliances,Blender,3,1385,4155,11/28/2025,Faisalabad,Cash
+T693,C223,Home Appliances,Blender,1,3822,3822,7/16/2025,Multan,EasyPaisa
+T694,C127,Electronics,Headphones,3,1532,4596,9/24/2025,Islamabad,EasyPaisa
+T695,C267,Beauty,Perfume,5,2493,12465,11/2/2025,Multan,Card
+T696,C143,Beauty,Face Wash,3,615,1845,12/28/2025,Multan,Cash
+T697,C299,Beauty,Perfume,1,4454,4454,8/12/2025,Lahore,JazzCash
+T698,C112,Home Appliances,Blender,3,1876,5628,11/6/2025,Lahore,Cash
+T699,C39,Electronics,Mobile Charger,4,2286,9144,10/12/2025,Karachi,JazzCash
+T700,C32,Electronics,Headphones,1,3757,3757,6/5/2025,Multan,EasyPaisa
+T701,C66,Home Appliances,Blender,3,2046,6138,6/5/2025,Islamabad,Cash
+T702,C246,Electronics,Mobile Charger,4,2861,11444,12/30/2025,Faisalabad,Cash
+T703,C61,Grocery,Rice Bag,3,1680,5040,6/15/2025,Islamabad,JazzCash
+T704,C280,Clothing,T-Shirt,1,3870,3870,12/22/2025,Faisalabad,JazzCash
+T705,C126,Grocery,Rice Bag,5,2922,14610,6/1/2025,Multan,EasyPaisa
+T706,C110,Electronics,Headphones,1,4840,4840,7/13/2025,Faisalabad,JazzCash
+T707,C3,Beauty,Face Wash,1,1078,1078,2/6/2025,Lahore,JazzCash
+T708,C95,Home Appliances,Microwave,5,4230,21150,12/27/2025,Karachi,Card
+T709,C52,Clothing,Jeans,2,922,1844,2/21/2025,Islamabad,Cash
+T710,C85,Beauty,Perfume,3,4680,14040,12/18/2025,Faisalabad,Card
+T711,C53,Beauty,Perfume,2,3377,6754,2/4/2025,Multan,EasyPaisa
+T712,C258,Grocery,Rice Bag,5,1984,9920,2/12/2025,Karachi,Card
+T713,C132,Home Appliances,Blender,4,4163,16652,10/9/2025,Lahore,JazzCash
+T714,C279,Home Appliances,Blender,2,2228,4456,10/29/2025,Islamabad,Card
+T715,C172,Electronics,Headphones,4,4091,16364,4/4/2025,Karachi,Card
+T716,C295,Grocery,Cooking Oil,1,4143,4143,3/7/2025,Faisalabad,Card
+T717,C276,Clothing,Jeans,2,1637,3274,4/17/2025,Karachi,Cash
+T718,C107,Home Appliances,Microwave,4,2121,8484,1/12/2025,Lahore,EasyPaisa
+T719,C201,Grocery,Cooking Oil,1,3855,3855,3/31/2025,Lahore,EasyPaisa
+T720,C243,Home Appliances,Microwave,2,2912,5824,9/1/2025,Faisalabad,JazzCash
+T721,C68,Electronics,Headphones,2,4223,8446,12/14/2025,Karachi,Cash
+T722,C187,Home Appliances,Blender,2,4776,9552,9/13/2025,Multan,JazzCash
+T723,C58,Grocery,Cooking Oil,1,2361,2361,8/12/2025,Faisalabad,EasyPaisa
+T724,C138,Clothing,Jeans,2,1324,2648,4/6/2025,Lahore,Cash
+T725,C282,Home Appliances,Blender,5,3785,18925,11/12/2025,Lahore,Card
+T726,C237,Electronics,Mobile Charger,1,3671,3671,10/18/2025,Lahore,EasyPaisa
+T727,C295,Grocery,Cooking Oil,4,2135,8540,9/29/2025,Faisalabad,EasyPaisa
+T728,C226,Clothing,T-Shirt,2,778,1556,2/2/2025,Karachi,Card
+T729,C299,Grocery,Cooking Oil,4,3980,15920,3/31/2025,Karachi,Card
+T730,C191,Clothing,Jeans,4,560,2240,4/18/2025,Multan,Cash
+T731,C247,Home Appliances,Blender,1,1662,1662,11/13/2025,Islamabad,Cash
+T732,C126,Electronics,Headphones,1,4358,4358,6/20/2025,Karachi,JazzCash
+T733,C155,Beauty,Perfume,5,946,4730,5/6/2025,Karachi,EasyPaisa
+T734,C152,Clothing,T-Shirt,3,2059,6177,2/16/2025,Faisalabad,Cash
+T735,C216,Beauty,Perfume,3,4142,12426,8/10/2025,Lahore,Card
+T736,C4,Electronics,Mobile Charger,3,3342,10026,12/13/2025,Islamabad,JazzCash
+T737,C114,Beauty,Face Wash,2,4504,9008,6/5/2025,Multan,JazzCash
+T738,C89,Beauty,Perfume,2,2345,4690,5/13/2025,Lahore,EasyPaisa
+T739,C58,Home Appliances,Microwave,5,3838,19190,7/22/2025,Lahore,EasyPaisa
+T740,C27,Home Appliances,Blender,4,4844,19376,5/11/2025,Islamabad,Cash
+T741,C251,Home Appliances,Microwave,4,3340,13360,5/14/2025,Lahore,EasyPaisa
+T742,C63,Home Appliances,Microwave,1,1643,1643,3/8/2025,Karachi,EasyPaisa
+T743,C108,Beauty,Perfume,2,1558,3116,12/12/2025,Multan,EasyPaisa
+T744,C183,Grocery,Cooking Oil,3,4898,14694,11/9/2025,Lahore,Cash
+T745,C62,Beauty,Face Wash,4,3289,13156,2/16/2025,Multan,Card
+T746,C182,Beauty,Face Wash,1,3170,3170,12/27/2025,Islamabad,EasyPaisa
+T747,C160,Electronics,Mobile Charger,5,2195,10975,3/8/2025,Lahore,EasyPaisa
+T748,C224,Beauty,Perfume,3,1714,5142,10/13/2025,Lahore,Cash
+T749,C224,Clothing,T-Shirt,1,2357,2357,12/3/2025,Islamabad,EasyPaisa
+T750,C17,Clothing,Jeans,2,3563,7126,5/27/2025,Faisalabad,Card
+T751,C160,Electronics,Mobile Charger,5,4332,21660,6/2/2025,Islamabad,Card
+T752,C76,Grocery,Cooking Oil,2,2036,4072,7/29/2025,Multan,Card
+T753,C185,Grocery,Cooking Oil,3,4952,14856,9/27/2025,Faisalabad,Cash
+T754,C137,Grocery,Rice Bag,4,4051,16204,3/31/2025,Lahore,JazzCash
+T755,C273,Home Appliances,Blender,2,3100,6200,11/9/2025,Karachi,JazzCash
+T756,C114,Electronics,Headphones,4,4533,18132,2/22/2025,Islamabad,Card
+T757,C299,Home Appliances,Blender,4,4388,17552,5/18/2025,Lahore,Card
+T758,C20,Grocery,Rice Bag,5,2917,14585,4/10/2025,Karachi,JazzCash
+T759,C214,Grocery,Rice Bag,2,2333,4666,9/18/2025,Multan,EasyPaisa
+T760,C192,Beauty,Perfume,2,2729,5458,10/26/2025,Multan,Card
+T761,C239,Beauty,Face Wash,2,2700,5400,10/14/2025,Multan,Cash
+T762,C222,Grocery,Rice Bag,4,927,3708,1/3/2025,Islamabad,EasyPaisa
+T763,C216,Grocery,Rice Bag,1,4935,4935,5/19/2025,Multan,Cash
+T764,C57,Home Appliances,Blender,4,2914,11656,11/23/2025,Islamabad,Cash
+T765,C127,Beauty,Perfume,2,2903,5806,1/11/2025,Lahore,JazzCash
+T766,C203,Clothing,Jeans,1,1636,1636,6/22/2025,Islamabad,EasyPaisa
+T767,C187,Grocery,Cooking Oil,3,1225,3675,12/5/2025,Multan,Card
+T768,C274,Electronics,Mobile Charger,3,3784,11352,4/12/2025,Islamabad,Cash
+T769,C150,Electronics,Mobile Charger,4,1323,5292,7/1/2025,Faisalabad,EasyPaisa
+T770,C192,Clothing,T-Shirt,5,649,3245,7/28/2025,Lahore,JazzCash
+T771,C204,Beauty,Face Wash,3,4018,12054,12/26/2025,Faisalabad,JazzCash
+T772,C198,Beauty,Perfume,2,4374,8748,7/13/2025,Karachi,JazzCash
+T773,C83,Electronics,Headphones,3,3507,10521,5/24/2025,Faisalabad,Cash
+T774,C82,Home Appliances,Microwave,2,909,1818,7/19/2025,Islamabad,Card
+T775,C164,Grocery,Rice Bag,5,1854,9270,7/16/2025,Karachi,Cash
+T776,C32,Electronics,Mobile Charger,5,988,4940,7/6/2025,Islamabad,Cash
+T777,C234,Grocery,Rice Bag,3,3118,9354,7/30/2025,Islamabad,JazzCash
+T778,C233,Electronics,Mobile Charger,1,1474,1474,11/1/2025,Karachi,JazzCash
+T779,C113,Home Appliances,Microwave,1,2622,2622,1/30/2025,Faisalabad,Cash
+T780,C191,Beauty,Perfume,5,1575,7875,7/8/2025,Karachi,JazzCash
+T781,C210,Grocery,Cooking Oil,2,4789,9578,8/15/2025,Lahore,Card
+T782,C165,Beauty,Face Wash,3,2749,8247,6/30/2025,Islamabad,JazzCash
+T783,C54,Clothing,T-Shirt,1,1407,1407,11/7/2025,Lahore,JazzCash
+T784,C251,Home Appliances,Blender,5,1629,8145,11/25/2025,Lahore,EasyPaisa
+T785,C186,Electronics,Headphones,3,4042,12126,3/30/2025,Multan,EasyPaisa
+T786,C253,Home Appliances,Microwave,1,1922,1922,4/7/2025,Islamabad,Cash
+T787,C79,Beauty,Perfume,3,1395,4185,2/14/2025,Faisalabad,Card
+T788,C55,Clothing,Jeans,5,2349,11745,6/9/2025,Lahore,JazzCash
+T789,C240,Grocery,Cooking Oil,1,1601,1601,12/11/2025,Faisalabad,JazzCash
+T790,C151,Beauty,Face Wash,3,3293,9879,2/1/2025,Karachi,Cash
+T791,C191,Home Appliances,Blender,5,4269,21345,10/28/2025,Faisalabad,JazzCash
+T792,C233,Electronics,Mobile Charger,4,4822,19288,4/5/2025,Multan,Cash
+T793,C21,Beauty,Face Wash,3,1531,4593,9/19/2025,Multan,Card
+T794,C229,Beauty,Face Wash,2,4398,8796,7/8/2025,Karachi,Card
+T795,C207,Beauty,Face Wash,2,4779,9558,12/27/2025,Islamabad,Cash
+T796,C55,Home Appliances,Blender,1,3484,3484,12/2/2025,Karachi,EasyPaisa
+T797,C15,Beauty,Perfume,5,868,4340,8/21/2025,Karachi,EasyPaisa
+T798,C209,Clothing,Jeans,1,2372,2372,9/8/2025,Islamabad,Cash
+T799,C232,Beauty,Perfume,2,1922,3844,2/5/2025,Islamabad,JazzCash
+T800,C278,Beauty,Face Wash,1,2879,2879,2/11/2025,Multan,Cash
+T801,C273,Clothing,T-Shirt,2,2098,4196,11/3/2025,Faisalabad,Cash
+T802,C44,Grocery,Cooking Oil,4,849,3396,12/9/2025,Lahore,EasyPaisa
+T803,C130,Home Appliances,Blender,2,4869,9738,9/9/2025,Islamabad,EasyPaisa
+T804,C42,Home Appliances,Blender,4,675,2700,7/9/2025,Multan,JazzCash
+T805,C76,Electronics,Mobile Charger,5,2125,10625,1/1/2026,Lahore,EasyPaisa
+T806,C50,Home Appliances,Microwave,1,4553,4553,7/4/2025,Karachi,EasyPaisa
+T807,C214,Grocery,Rice Bag,3,1447,4341,5/24/2025,Lahore,Card
+T808,C290,Grocery,Rice Bag,5,3640,18200,3/6/2025,Lahore,EasyPaisa
+T809,C262,Clothing,Jeans,1,718,718,12/31/2025,Lahore,EasyPaisa
+T810,C85,Beauty,Face Wash,3,4939,14817,2/9/2025,Karachi,Cash
+T811,C16,Grocery,Rice Bag,4,532,2128,9/11/2025,Multan,JazzCash
+T812,C184,Home Appliances,Microwave,4,1608,6432,12/14/2025,Karachi,EasyPaisa
+T813,C192,Home Appliances,Microwave,5,3619,18095,10/6/2025,Faisalabad,Cash
+T814,C44,Clothing,Jeans,5,1145,5725,1/27/2025,Karachi,JazzCash
+T815,C122,Grocery,Cooking Oil,1,3432,3432,4/30/2025,Multan,JazzCash
+T816,C82,Beauty,Perfume,3,3122,9366,1/29/2025,Karachi,EasyPaisa
+T817,C24,Clothing,T-Shirt,5,2121,10605,7/12/2025,Islamabad,Cash
+T818,C4,Clothing,Jeans,4,4773,19092,6/1/2025,Lahore,JazzCash
+T819,C32,Grocery,Cooking Oil,4,4529,18116,4/8/2025,Karachi,Card
+T820,C284,Grocery,Cooking Oil,1,1431,1431,6/13/2025,Faisalabad,JazzCash
+T821,C276,Home Appliances,Blender,1,1214,1214,5/27/2025,Lahore,Card
+T822,C252,Electronics,Headphones,5,4120,20600,12/30/2025,Lahore,EasyPaisa
+T823,C98,Clothing,Jeans,3,3740,11220,1/10/2025,Multan,JazzCash
+T824,C288,Clothing,T-Shirt,5,4430,22150,11/14/2025,Karachi,Card
+T825,C76,Home Appliances,Blender,4,1232,4928,11/26/2025,Lahore,Card
+T826,C61,Clothing,T-Shirt,3,3123,9369,10/14/2025,Karachi,EasyPaisa
+T827,C64,Clothing,T-Shirt,4,3069,12276,7/25/2025,Faisalabad,JazzCash
+T828,C70,Home Appliances,Blender,5,3470,17350,2/20/2025,Islamabad,EasyPaisa
+T829,C258,Grocery,Cooking Oil,2,1855,3710,7/12/2025,Multan,Card
+T830,C244,Clothing,T-Shirt,1,3349,3349,1/16/2025,Multan,JazzCash
+T831,C225,Electronics,Headphones,3,4118,12354,2/10/2025,Islamabad,JazzCash
+T832,C98,Beauty,Face Wash,1,2483,2483,4/25/2025,Faisalabad,JazzCash
+T833,C65,Electronics,Headphones,2,679,1358,6/20/2025,Lahore,JazzCash
+T834,C192,Electronics,Mobile Charger,2,4226,8452,8/11/2025,Karachi,JazzCash
+T835,C13,Electronics,Mobile Charger,2,1191,2382,1/20/2025,Faisalabad,JazzCash
+T836,C113,Electronics,Headphones,1,1239,1239,2/20/2025,Karachi,EasyPaisa
+T837,C273,Beauty,Face Wash,3,4654,13962,4/6/2025,Faisalabad,JazzCash
+T838,C212,Electronics,Mobile Charger,3,2096,6288,4/27/2025,Lahore,Cash
+T839,C272,Electronics,Headphones,2,3841,7682,11/4/2025,Lahore,EasyPaisa
+T840,C31,Grocery,Cooking Oil,4,1591,6364,1/24/2025,Multan,JazzCash
+T841,C195,Clothing,Jeans,5,1171,5855,9/4/2025,Faisalabad,Card
+T842,C142,Clothing,Jeans,5,3175,15875,7/16/2025,Faisalabad,Cash
+T843,C274,Home Appliances,Blender,5,1862,9310,2/7/2025,Multan,Card
+T844,C102,Electronics,Headphones,4,1924,7696,1/4/2025,Islamabad,EasyPaisa
+T845,C107,Clothing,Jeans,5,4265,21325,12/8/2025,Lahore,Card
+T846,C242,Beauty,Face Wash,5,4836,24180,7/19/2025,Karachi,Card
+T847,C137,Beauty,Perfume,3,2972,8916,12/8/2025,Multan,EasyPaisa
+T848,C210,Beauty,Perfume,5,4735,23675,7/13/2025,Multan,EasyPaisa
+T849,C125,Home Appliances,Blender,3,1305,3915,7/2/2025,Faisalabad,Card
+T850,C289,Home Appliances,Blender,2,996,1992,8/31/2025,Multan,EasyPaisa
+T851,C127,Home Appliances,Microwave,3,1396,4188,4/23/2025,Faisalabad,Cash
+T852,C284,Beauty,Perfume,3,3456,10368,2/12/2025,Faisalabad,Cash
+T853,C56,Grocery,Rice Bag,3,3459,10377,10/26/2025,Karachi,Card
+T854,C270,Grocery,Rice Bag,4,971,3884,11/30/2025,Lahore,JazzCash
+T855,C207,Grocery,Cooking Oil,1,2282,2282,3/19/2025,Islamabad,JazzCash
+T856,C74,Home Appliances,Blender,3,4089,12267,8/5/2025,Lahore,Cash
+T857,C101,Home Appliances,Microwave,3,1690,5070,12/2/2025,Lahore,JazzCash
+T858,C243,Clothing,Jeans,2,2922,5844,9/5/2025,Multan,Card
+T859,C87,Home Appliances,Microwave,5,827,4135,12/7/2025,Islamabad,EasyPaisa
+T860,C222,Beauty,Face Wash,4,740,2960,11/19/2025,Karachi,JazzCash
+T861,C155,Clothing,T-Shirt,1,1953,1953,12/29/2025,Multan,Cash
+T862,C164,Clothing,T-Shirt,2,3212,6424,4/17/2025,Karachi,Cash
+T863,C69,Electronics,Mobile Charger,4,3375,13500,10/31/2025,Faisalabad,Card
+T864,C144,Grocery,Rice Bag,3,4273,12819,8/7/2025,Lahore,Card
+T865,C169,Grocery,Cooking Oil,4,4035,16140,11/1/2025,Faisalabad,Card
+T866,C29,Home Appliances,Microwave,4,4340,17360,4/9/2025,Faisalabad,EasyPaisa
+T867,C181,Beauty,Face Wash,2,1448,2896,10/2/2025,Karachi,Cash
+T868,C128,Grocery,Rice Bag,4,1015,4060,2/4/2025,Karachi,Card
+T869,C233,Grocery,Cooking Oil,1,4973,4973,2/15/2025,Lahore,Card
+T870,C272,Beauty,Face Wash,2,3243,6486,5/20/2025,Multan,JazzCash
+T871,C24,Electronics,Mobile Charger,5,2417,12085,8/7/2025,Karachi,Card
+T872,C53,Beauty,Perfume,4,957,3828,5/30/2025,Lahore,Cash
+T873,C154,Grocery,Cooking Oil,3,1128,3384,1/17/2025,Islamabad,JazzCash
+T874,C108,Clothing,T-Shirt,3,3222,9666,4/29/2025,Multan,JazzCash
+T875,C99,Beauty,Perfume,2,2329,4658,1/2/2025,Lahore,Cash
+T876,C223,Electronics,Mobile Charger,5,2512,12560,10/16/2025,Faisalabad,EasyPaisa
+T877,C23,Grocery,Cooking Oil,2,1768,3536,6/30/2025,Multan,EasyPaisa
+T878,C41,Beauty,Perfume,2,4752,9504,8/15/2025,Multan,Cash
+T879,C133,Clothing,Jeans,3,2073,6219,5/6/2025,Faisalabad,EasyPaisa
+T880,C123,Grocery,Rice Bag,5,1789,8945,5/15/2025,Faisalabad,EasyPaisa
+T881,C127,Clothing,T-Shirt,4,4071,16284,12/9/2025,Multan,Cash
+T882,C214,Clothing,Jeans,5,2196,10980,11/16/2025,Faisalabad,Cash
+T883,C97,Electronics,Headphones,5,1707,8535,5/1/2025,Karachi,Card
+T884,C300,Home Appliances,Microwave,5,3786,18930,10/19/2025,Faisalabad,Cash
+T885,C123,Electronics,Mobile Charger,1,3847,3847,8/3/2025,Faisalabad,JazzCash
+T886,C91,Grocery,Rice Bag,2,2282,4564,12/9/2025,Lahore,Cash
+T887,C3,Grocery,Rice Bag,3,2736,8208,6/30/2025,Faisalabad,JazzCash
+T888,C183,Grocery,Rice Bag,4,4049,16196,6/10/2025,Karachi,Cash
+T889,C162,Grocery,Cooking Oil,5,1206,6030,7/11/2025,Lahore,JazzCash
+T890,C4,Home Appliances,Blender,5,2738,13690,2/3/2025,Karachi,EasyPaisa
+T891,C179,Electronics,Headphones,2,1745,3490,10/23/2025,Multan,Cash
+T892,C86,Clothing,T-Shirt,5,4325,21625,1/12/2025,Islamabad,EasyPaisa
+T893,C289,Grocery,Cooking Oil,1,2693,2693,11/10/2025,Lahore,EasyPaisa
+T894,C165,Grocery,Rice Bag,5,4969,24845,6/17/2025,Karachi,JazzCash
+T895,C201,Beauty,Perfume,4,4367,17468,5/30/2025,Lahore,Cash
+T896,C224,Electronics,Headphones,5,2520,12600,8/17/2025,Islamabad,Cash
+T897,C75,Grocery,Rice Bag,5,4189,20945,4/8/2025,Karachi,EasyPaisa
+T898,C232,Grocery,Cooking Oil,1,4900,4900,12/14/2025,Lahore,EasyPaisa
+T899,C100,Home Appliances,Blender,1,1688,1688,11/3/2025,Islamabad,JazzCash
+T900,C91,Grocery,Cooking Oil,4,2962,11848,6/2/2025,Lahore,Card
+T901,C275,Beauty,Perfume,4,2080,8320,10/9/2025,Multan,Cash
+T902,C213,Home Appliances,Blender,1,4328,4328,11/14/2025,Lahore,Cash
+T903,C36,Electronics,Mobile Charger,4,3457,13828,1/21/2025,Multan,JazzCash
+T904,C155,Grocery,Cooking Oil,2,3163,6326,11/10/2025,Multan,Card
+T905,C220,Beauty,Face Wash,1,4321,4321,4/7/2025,Faisalabad,JazzCash
+T906,C126,Home Appliances,Blender,1,4372,4372,1/15/2025,Karachi,Cash
+T907,C215,Beauty,Perfume,1,2612,2612,8/1/2025,Islamabad,JazzCash
+T908,C26,Clothing,Jeans,4,3637,14548,6/27/2025,Multan,EasyPaisa
+T909,C8,Grocery,Rice Bag,1,3797,3797,7/4/2025,Lahore,Card
+T910,C106,Clothing,Jeans,3,3960,11880,12/8/2025,Islamabad,Cash
+T911,C91,Grocery,Cooking Oil,4,2563,10252,5/12/2025,Islamabad,Cash
+T912,C223,Home Appliances,Blender,2,4947,9894,11/24/2025,Karachi,EasyPaisa
+T913,C193,Electronics,Mobile Charger,2,4862,9724,7/25/2025,Lahore,Card
+T914,C58,Clothing,T-Shirt,3,1434,4302,8/20/2025,Lahore,Card
+T915,C85,Clothing,T-Shirt,1,2939,2939,2/1/2025,Karachi,EasyPaisa
+T916,C79,Grocery,Cooking Oil,4,3570,14280,9/28/2025,Karachi,Card
+T917,C233,Home Appliances,Blender,1,1892,1892,4/16/2025,Multan,JazzCash
+T918,C166,Grocery,Cooking Oil,1,4637,4637,5/10/2025,Lahore,Card
+T919,C95,Clothing,T-Shirt,4,4162,16648,1/17/2025,Lahore,EasyPaisa
+T920,C272,Home Appliances,Blender,5,4590,22950,7/10/2025,Islamabad,Card
+T921,C114,Clothing,T-Shirt,3,2042,6126,9/11/2025,Faisalabad,Cash
+T922,C244,Grocery,Rice Bag,1,1055,1055,11/22/2025,Islamabad,Card
+T923,C173,Grocery,Rice Bag,4,626,2504,10/13/2025,Karachi,Card
+T924,C114,Home Appliances,Microwave,2,2307,4614,3/19/2025,Lahore,EasyPaisa
+T925,C169,Beauty,Perfume,2,2628,5256,3/16/2025,Islamabad,JazzCash
+T926,C195,Electronics,Headphones,4,2873,11492,4/14/2025,Islamabad,JazzCash
+T927,C11,Electronics,Mobile Charger,5,810,4050,12/1/2025,Islamabad,Card
+T928,C170,Home Appliances,Blender,1,1881,1881,1/12/2025,Islamabad,EasyPaisa
+T929,C211,Beauty,Perfume,5,1888,9440,12/9/2025,Lahore,Card
+T930,C239,Clothing,Jeans,4,2595,10380,12/10/2025,Lahore,Cash
+T931,C205,Beauty,Face Wash,3,2985,8955,3/9/2025,Multan,Card
+T932,C189,Home Appliances,Blender,3,3599,10797,1/1/2026,Faisalabad,EasyPaisa
+T933,C246,Grocery,Cooking Oil,1,3286,3286,4/28/2025,Islamabad,JazzCash
+T934,C16,Beauty,Face Wash,5,2339,11695,4/5/2025,Islamabad,Card
+T935,C47,Electronics,Headphones,4,4752,19008,5/13/2025,Faisalabad,EasyPaisa
+T936,C242,Clothing,T-Shirt,2,2597,5194,12/3/2025,Faisalabad,Card
+T937,C159,Beauty,Perfume,1,2434,2434,11/6/2025,Karachi,Card
+T938,C27,Beauty,Face Wash,5,3381,16905,12/23/2025,Faisalabad,Cash
+T939,C260,Electronics,Headphones,2,3626,7252,4/30/2025,Islamabad,JazzCash
+T940,C3,Beauty,Perfume,3,1036,3108,4/17/2025,Karachi,EasyPaisa
+T941,C273,Clothing,T-Shirt,3,3257,9771,8/26/2025,Faisalabad,EasyPaisa
+T942,C11,Electronics,Mobile Charger,3,502,1506,7/5/2025,Lahore,EasyPaisa
+T943,C79,Clothing,T-Shirt,4,3342,13368,11/9/2025,Faisalabad,EasyPaisa
+T944,C153,Electronics,Headphones,3,4911,14733,6/30/2025,Faisalabad,Card
+T945,C290,Electronics,Mobile Charger,3,3441,10323,12/16/2025,Faisalabad,EasyPaisa
+T946,C79,Clothing,Jeans,5,1781,8905,7/21/2025,Lahore,Cash
+T947,C21,Home Appliances,Blender,5,4293,21465,4/13/2025,Karachi,Card
+T948,C229,Electronics,Mobile Charger,1,1072,1072,5/28/2025,Multan,EasyPaisa
+T949,C44,Beauty,Perfume,5,822,4110,1/15/2025,Multan,Cash
+T950,C250,Clothing,T-Shirt,2,4432,8864,6/10/2025,Islamabad,EasyPaisa
+T951,C250,Beauty,Face Wash,4,2118,8472,5/23/2025,Faisalabad,JazzCash
+T952,C74,Electronics,Mobile Charger,3,1199,3597,1/25/2025,Faisalabad,Card
+T953,C195,Grocery,Cooking Oil,3,4562,13686,11/4/2025,Karachi,Card
+T954,C14,Clothing,T-Shirt,3,3614,10842,7/16/2025,Lahore,Card
+T955,C127,Grocery,Cooking Oil,5,3620,18100,8/1/2025,Faisalabad,Cash
+T956,C179,Grocery,Rice Bag,1,1498,1498,5/20/2025,Faisalabad,EasyPaisa
+T957,C40,Electronics,Headphones,2,1563,3126,9/17/2025,Islamabad,Cash
+T958,C287,Clothing,Jeans,4,2787,11148,5/4/2025,Lahore,EasyPaisa
+T959,C36,Beauty,Face Wash,3,1471,4413,9/1/2025,Islamabad,EasyPaisa
+T960,C288,Electronics,Headphones,2,3198,6396,9/30/2025,Islamabad,Cash
+T961,C214,Electronics,Headphones,2,3418,6836,12/9/2025,Multan,Cash
+T962,C161,Electronics,Headphones,4,4884,19536,8/21/2025,Islamabad,EasyPaisa
+T963,C25,Home Appliances,Microwave,1,1643,1643,8/9/2025,Islamabad,EasyPaisa
+T964,C44,Grocery,Cooking Oil,3,1977,5931,3/24/2025,Karachi,JazzCash
+T965,C70,Grocery,Cooking Oil,5,2374,11870,4/14/2025,Karachi,Cash
+T966,C228,Clothing,T-Shirt,1,1319,1319,10/16/2025,Islamabad,Cash
+T967,C35,Home Appliances,Microwave,3,4189,12567,12/23/2025,Multan,Cash
+T968,C16,Electronics,Headphones,2,578,1156,1/10/2025,Islamabad,JazzCash
+T969,C81,Grocery,Cooking Oil,5,1720,8600,11/4/2025,Islamabad,Card
+T970,C299,Home Appliances,Microwave,5,4038,20190,12/18/2025,Islamabad,JazzCash
+T971,C124,Home Appliances,Blender,5,1569,7845,1/31/2025,Faisalabad,Cash
+T972,C88,Clothing,T-Shirt,4,2994,11976,6/15/2025,Karachi,Card
+T973,C222,Grocery,Rice Bag,3,3977,11931,3/15/2025,Multan,Card
+T974,C294,Electronics,Mobile Charger,1,2015,2015,5/7/2025,Islamabad,EasyPaisa
+T975,C163,Beauty,Face Wash,3,3333,9999,5/6/2025,Lahore,JazzCash
+T976,C216,Home Appliances,Microwave,3,2526,7578,11/28/2025,Karachi,JazzCash
+T977,C216,Electronics,Headphones,5,2374,11870,9/1/2025,Faisalabad,EasyPaisa
+T978,C284,Clothing,T-Shirt,5,3367,16835,3/26/2025,Multan,EasyPaisa
+T979,C89,Grocery,Rice Bag,1,4757,4757,9/3/2025,Karachi,Card
+T980,C292,Electronics,Mobile Charger,1,3680,3680,12/30/2025,Faisalabad,EasyPaisa
+T981,C215,Home Appliances,Blender,1,4825,4825,6/21/2025,Islamabad,EasyPaisa
+T982,C117,Beauty,Perfume,5,4371,21855,12/26/2025,Multan,EasyPaisa
+T983,C249,Clothing,Jeans,1,1175,1175,6/8/2025,Islamabad,Cash
+T984,C201,Electronics,Mobile Charger,2,2360,4720,9/23/2025,Lahore,Card
+T985,C133,Electronics,Headphones,1,1185,1185,1/26/2025,Multan,JazzCash
+T986,C143,Clothing,T-Shirt,4,4633,18532,1/16/2025,Islamabad,Cash
+T987,C273,Grocery,Rice Bag,2,4432,8864,7/19/2025,Islamabad,EasyPaisa
+T988,C281,Home Appliances,Microwave,4,1414,5656,7/8/2025,Lahore,Cash
+T989,C91,Grocery,Cooking Oil,1,3923,3923,6/18/2025,Lahore,Cash
+T990,C39,Beauty,Face Wash,5,4023,20115,12/4/2025,Faisalabad,JazzCash
+T991,C102,Grocery,Rice Bag,2,2872,5744,11/6/2025,Lahore,JazzCash
+T992,C10,Beauty,Perfume,1,2049,2049,9/12/2025,Lahore,Card
+T993,C203,Home Appliances,Microwave,5,3479,17395,12/8/2025,Lahore,Cash
+T994,C247,Grocery,Cooking Oil,4,3695,14780,12/16/2025,Faisalabad,JazzCash
+T995,C170,Home Appliances,Microwave,3,1890,5670,6/27/2025,Islamabad,JazzCash
+T996,C274,Electronics,Mobile Charger,5,809,4045,9/21/2025,Karachi,JazzCash
+T997,C228,Electronics,Mobile Charger,3,685,2055,7/27/2025,Multan,JazzCash
+T998,C244,Electronics,Headphones,1,2210,2210,12/1/2025,Karachi,Card
+T999,C26,Grocery,Rice Bag,1,3438,3438,6/28/2025,Multan,JazzCash
+T1000,C210,Electronics,Headphones,1,3807,3807,8/15/2025,Faisalabad,Cash
